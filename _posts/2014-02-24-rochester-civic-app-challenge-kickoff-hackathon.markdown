@@ -1,26 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Rochester Civic App Challenge Kickoff Hackathon
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 31
-wordpress_url: http://gearchicken.com/TestWebsite/GearChicken/wordpress/?p=31
-date: !binary |-
-  MjAxNC0wMi0yNCAyMDo0NzowNSAtMDcwMA==
-date_gmt: !binary |-
-  MjAxNC0wMi0yNCAyMDo0NzowNSAtMDcwMA==
-categories:
-- HFOSS
-- Community
-tags: []
-comments: []
+tags: [HFOSS, Community]
 ---
 <p>This past weekend myself, along with my friends Eric and Braxton participated in the <a href="http://attroc.hackupstate.com">Rochester Civic App Challenge</a> Kickoff Hackathon. This kickoff was hosted by <a href="http://magic.rit.edu">RIT's MAGIC Center</a> and lasted from 6PM Friday Jan 21st to 6PM Saturday Jan 22nd.</p>
 <p>Braxton, Eric, and I created <a href="http://gearchicken.com/civicapp">CityWatch</a> a browser based application that pinpoints the locations of 911 calls onto a map.  Our app received second place in the kickoff hackathon for new civic apps.</p>

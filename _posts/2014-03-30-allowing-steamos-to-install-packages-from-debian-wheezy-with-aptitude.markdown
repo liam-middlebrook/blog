@@ -1,28 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Allowing SteamOS to Install Packages From Debian Wheezy With Aptitude
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 64
-wordpress_url: http://gearchicken.com/wordpress/?p=64
-date: !binary |-
-  MjAxNC0wMy0zMCAxODoyNDowMyAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wMy0zMCAxODoyNDowMyAtMDYwMA==
-categories:
-- Game Development
-- HFOSS
-- Community
-- MINX
-tags: []
-comments: []
+tags: [Game Development, HFOSS, Community, MINX]
 ---
 <h2>The Meeting</h2>
 <p>Last Wednesday I had a meeting with Andy Phelps the director of <a href="http://magic.rit.edu">RIT's MAGIC center</a>. I was requesting permission to use the MAGIC center's labs for developing MINX for SteamOS. Below I have included a paraphrased transcription of our meeting:</p>

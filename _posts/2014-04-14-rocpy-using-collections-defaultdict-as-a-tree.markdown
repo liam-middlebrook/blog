@@ -1,25 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: RocPy - Using collections.defaultdict as a Tree
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 73
-wordpress_url: http://gearchicken.com/wordpress/?p=73
-date: !binary |-
-  MjAxNC0wNC0xNCAwMTo0MDo1OCAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wNC0xNCAwMTo0MDo1OCAtMDYwMA==
-categories:
-- Uncategorized
-tags: []
-comments: []
+tags: [Community]
 ---
 Last month on Tuesday the 18th, students from both my HFOSS class as well as students 
 from the Advanced FOSS class were supposed to go to March's RocPy meeting. When I had 

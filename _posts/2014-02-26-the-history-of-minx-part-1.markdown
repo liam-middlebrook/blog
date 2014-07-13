@@ -1,27 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: The History of MINX (Part 1)
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 37
-wordpress_url: http://gearchicken.com/TestWebsite/GearChicken/wordpress/?p=37
-date: !binary |-
-  MjAxNC0wMi0yNiAwNzoyNjozNSAtMDcwMA==
-date_gmt: !binary |-
-  MjAxNC0wMi0yNiAwNzoyNjozNSAtMDcwMA==
-categories:
-- XNA
-- Game Development
-- MINX
-tags: []
-comments: []
+tags: [XNA, Game Development, MINX]
 ---
 <p>In January of 2013 I had seen articles saying that Microsoft was officially stopping development to update it's XNA Framework. When I heard this I was struck with sadness and memories knowing that without XNA I never would have become a Game Developer, and maybe not even a programmer.<br />
 A year or so before XNA was deprecated I grew to a point where I felt I needed to strive to program in something more challenging than XNA, something that would give me more control. I had always been told that C++ was a great language, and that it was "The Industry Standard." On a whim I decided I would try to learn C++. As you might imagine this didn't turn out as well as I would have hoped, I spent about a week frustrating myself over tutorials on how to use SDL 1.2, yet I had never taken the time to understand what was going on in C++. It took less than a month of frustration before I decided that without proper knowledge C++ and SDL would be too annoying/difficult to use.<br />

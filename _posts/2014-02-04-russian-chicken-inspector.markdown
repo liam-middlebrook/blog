@@ -1,26 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Russian Chicken Inspector
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 12
-wordpress_url: http://gearchicken.com/TestWebsite/GearChicken/wordpress/?p=12
-date: !binary |-
-  MjAxNC0wMi0wNCAwMjozMTo0OSAtMDcwMA==
-date_gmt: !binary |-
-  MjAxNC0wMi0wNCAwMjozMTo0OSAtMDcwMA==
-categories:
-- XNA
-- Game Development
-tags: []
-comments: []
+tags: [XNA, Game_Development]
 ---
 <p>Two weekends ago (the weekend of Janurary 24th) my friend Alec and I worked on a game for this year's Global Game Jam.  The theme of this year's jam was:</p>
 <blockquote><p>"We don't see things as they are, we see them as we are."</p></blockquote>

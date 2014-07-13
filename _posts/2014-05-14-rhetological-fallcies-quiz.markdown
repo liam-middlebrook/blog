@@ -1,26 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Rhetological Fallcies Quiz
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 101
-wordpress_url: http://gearchicken.com/wordpress/?p=101
-date: !binary |-
-  MjAxNC0wNS0xNCAyMjoxNTozMSAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wNS0xNCAyMjoxNTozMSAtMDYwMA==
-categories:
-- HFOSS
-- Community
-tags: []
-comments: []
+tags: [HFOSS, Community]
 ---
 <h2>When</h2>
 <p>The latest version of this info-graphic was published in November of 2012</p>

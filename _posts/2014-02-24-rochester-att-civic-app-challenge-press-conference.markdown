@@ -1,26 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Rochester AT&T Civic App Challenge Press Conference
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 25
-wordpress_url: http://gearchicken.com/TestWebsite/GearChicken/wordpress/?p=25
-date: !binary |-
-  MjAxNC0wMi0yNCAxMzo0MDozNyAtMDcwMA==
-date_gmt: !binary |-
-  MjAxNC0wMi0yNCAxMzo0MDozNyAtMDcwMA==
-categories:
-- HFOSS
-- Community
-tags: []
-comments: []
+tags: [HFOSS, Community]
 ---
 <p><strong>The Gist:</strong></p>
 <p><a href="http://rit.edu">RIT</a> along with <a href="http://att.com">AT&amp;T</a>, <a href="http://digitalrochester.com">Digital Rochester</a>, <a href="http://htr.org">High Tech Rochester</a>, and <a href="http://hackupstate.com">Hack Upstate</a> will be hosting a 60 day app creation challenge based around creating an app that exposes civic resources to the average citizen <a href="http://attroc.hackupstate.com">[Link Here]</a>.  Every sponsor of the event is clearly stating that they are doing it to once again start up Rochester's tech sector, hopefully bringing it back to the peak of the <a href="http://kodak.com">Kodak</a> and <a href="http://xerox.com">Xerox</a> years.</p>

@@ -1,27 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Math Island: A Design Concept'
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 90
-wordpress_url: http://gearchicken.com/wordpress/?p=90
-date: !binary |-
-  MjAxNC0wNS0wNyAxOTo0Mzo0NiAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wNS0wNyAxOTo0Mzo0NiAtMDYwMA==
-categories:
-- Game Development
-- HFOSS
-- Community
-tags: []
-comments: []
+tags: [Game Development, HFOSS, Community]
 ---
 <h2>Preface</h2>
 <p>Over the course of this term in my Mathematics of Graphical Simulation class my friends and I have had an "interesting" time in class. The first few weeks of the course I had noticed that something wasn't going exactly the proper way that a math primer for graphics programming should be taught. As the course went on my friends started the have a harder time understand what was going on in class. With this new difficulty, and the fact that our tables are arranged in a small archipelago like group format they came up with the concept of Math Island.</p>

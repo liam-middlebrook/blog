@@ -1,27 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: HFOSS Final Project Team Proposal
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 76
-wordpress_url: http://gearchicken.com/wordpress/?p=76
-date: !binary |-
-  MjAxNC0wNC0xNiAyMDo0NjozOSAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wNC0xNiAyMDo0NjozOSAtMDYwMA==
-categories:
-- Game Development
-- HFOSS
-- Community
-tags: []
-comments: []
+tags: [Game Development, HFOSS, Community]
 ---
 <h1 dir="ltr">HFOSS Final Project Team Proposal</h1>
 <h2 dir="ltr">List your other team members below</h2>

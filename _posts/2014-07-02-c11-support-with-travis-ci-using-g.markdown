@@ -1,25 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: C++11 Support with Travis-CI using g++
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 105
-wordpress_url: http://gearchicken.com/wordpress/?p=105
-date: !binary |-
-  MjAxNC0wNy0wMiAwMDo0Mzo1NSAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wNy0wMiAwMDo0Mzo1NSAtMDYwMA==
-categories:
-- MINX
-tags: []
-comments: []
+tags: [MINX]
 ---
 Today I was working on adding Travis-CI support to my project 
 [MINX](http://libminx.org) and I came across an issue that had 

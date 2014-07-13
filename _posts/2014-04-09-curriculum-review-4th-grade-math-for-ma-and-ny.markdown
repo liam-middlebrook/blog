@@ -1,26 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: Curriculum Review - 4th Grade Math for MA and NY
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 71
-wordpress_url: http://gearchicken.com/wordpress/?p=71
-date: !binary |-
-  MjAxNC0wNC0wOSAxOTozMjowNSAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wNC0wOSAxOTozMjowNSAtMDYwMA==
-categories:
-- Game Development
-- HFOSS
-tags: []
-comments: []
+tags: [Game Development, HFOSS]
 ---
 <h2>Overview</h2>
 <p>In my Humanitarian Free and Open Source Software course we are researching the 4th Grade math curriculum for students in both Massachusetts and New York. Our assignment involved reading over a few texts the covered both curricula. I have included links to those texts below:</p>

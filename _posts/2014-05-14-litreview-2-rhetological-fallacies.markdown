@@ -1,25 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Litreview 2: Rhetological Fallacies'
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 98
-wordpress_url: http://gearchicken.com/wordpress/?p=98
-date: !binary |-
-  MjAxNC0wNS0xNCAyMDo0NDoxNiAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wNS0xNCAyMDo0NDoxNiAtMDYwMA==
-categories:
-- Uncategorized
-tags: []
-comments: []
+tags: [HFOSS]
 ---
 <p><em></em><strong>Who:</strong></p>
 <p><a href="http://www.davidmccandless.com/">David McCandless</a></p>

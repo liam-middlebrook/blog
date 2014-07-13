@@ -1,26 +1,8 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'LitReview Weber - The Success of Open Source Chapter 3: What Is Open Source
   and How Does It Work?'
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 17
-wordpress_url: http://gearchicken.com/TestWebsite/GearChicken/wordpress/?p=17
-date: !binary |-
-  MjAxNC0wMi0xMCAwNTowMTowNiAtMDcwMA==
-date_gmt: !binary |-
-  MjAxNC0wMi0xMCAwNTowMTowNiAtMDcwMA==
-categories:
-- HFOSS
-tags: []
-comments: []
+tags: [HFOSS]
 ---
 <p>On Novemeber 30th, 2005 Steven Weber released his book <em>The Success of Open Source</em> in the Harvard University Press.  For my Humanitarian Free and Open Source Software (HFOSS) class my professor asked us to read the third chapter of Weber's book, titled <em>What Is Open Source and How Does It Work?</em>  By no means do I feel comfortable formatting the article in the way most articles are formatted where paragraphs simply flow together. Instead I'll be taking the format the my professor had given the class as a rough outline.<em><br />
 </em></p>

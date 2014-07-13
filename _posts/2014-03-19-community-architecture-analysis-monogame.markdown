@@ -1,28 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: ! 'Community Architecture Analysis: MonoGame'
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 57
-wordpress_url: http://gearchicken.com/TestWebsite/GearChicken/wordpress/?p=57
-date: !binary |-
-  MjAxNC0wMy0xOSAxOTozMToyNCAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wMy0xOSAxOTozMToyNCAtMDYwMA==
-categories:
-- XNA
-- Game Development
-- HFOSS
-- Community
-tags: []
-comments: []
+tags: [XNA, Game Development, HFOSS, Community]
 ---
 <h3><b>What we did:</b></h3>
 <p>My team and I researched MonoGame primarily through its Github page, main website, and Google.  Before the project, I had crawled through the MonoGame source and interacted with its developers on Github.  We attempted to augment our own research with <a href="https://github.com/tomheon/git_by_a_bus">git_by_a_bus</a>, but the way the git_by_a_bus was written caused it to keep eating up the machine's memory.</p>

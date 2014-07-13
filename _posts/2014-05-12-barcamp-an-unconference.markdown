@@ -1,25 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: BarCamp - An Unconference
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 93
-wordpress_url: http://gearchicken.com/wordpress/?p=93
-date: !binary |-
-  MjAxNC0wNS0xMiAxMzowOToyNCAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wNS0xMiAxMzowOToyNCAtMDYwMA==
-categories:
-- Community
-tags: []
-comments: []
+tags: [Community]
 ---
 <h2>Preface:</h2>
 <p>I have no easy way of describing all of the things that BarCamp is, so I have included the "official" description of BarCamp below, as according to their site <a href="http://barcamproc.org">http://barcamproc.org</a></p>

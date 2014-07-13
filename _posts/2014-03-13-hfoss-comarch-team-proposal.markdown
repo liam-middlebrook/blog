@@ -1,26 +1,7 @@
 ---
 layout: post
-status: publish
-published: true
 title: HFOSS - Commarch Team Proposal
-author:
-  display_name: liammiddlebrook
-  login: liammiddlebrook
-  email: liammiddlebrook@gmail.com
-  url: ''
-author_login: liammiddlebrook
-author_email: liammiddlebrook@gmail.com
-wordpress_id: 47
-wordpress_url: http://gearchicken.com/TestWebsite/GearChicken/wordpress/?p=47
-date: !binary |-
-  MjAxNC0wMy0xMyAwMToxODo1MyAtMDYwMA==
-date_gmt: !binary |-
-  MjAxNC0wMy0xMyAwMToxODo1MyAtMDYwMA==
-categories:
-- HFOSS
-- Community
-tags: []
-comments: []
+tags: [HFOSS, Community]
 ---
 <h2>List of Team Members</h2>
 <table border="1px">
