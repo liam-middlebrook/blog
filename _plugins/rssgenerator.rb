@@ -54,7 +54,7 @@ module Jekyll
             item.guid.content = link
             item.title = post.title
             item.link = link
-            item.description = post.excerpt
+            item.description = ''
             item.updated = post.date
           end
         end
