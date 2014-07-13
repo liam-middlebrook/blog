@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: ! 'HW: Bugfix'
+author:
+  display_name: liammiddlebrook
+  login: liammiddlebrook
+  email: liammiddlebrook@gmail.com
+  url: ''
+author_login: liammiddlebrook
+author_email: liammiddlebrook@gmail.com
+wordpress_id: 33
+wordpress_url: http://gearchicken.com/TestWebsite/GearChicken/wordpress/?p=33
+date: !binary |-
+  MjAxNC0wMi0yNCAyMjoxOTo1MyAtMDcwMA==
+date_gmt: !binary |-
+  MjAxNC0wMi0yNCAyMjoxOTo1MyAtMDcwMA==
+categories:
+- Game Development
+- HFOSS
+- Community
+tags: []
+comments: []
+---
+<p>For my Humanitarian Free and Open Source Software class I was assigned to find a bug in a GitHub repository and to submit a pull request with a patch for the bug.  About a month ago I had discovered a python game development library known as Spyral. I have been watching Spyral for the past few weeks and decided to find a bug that was simple enough for someone with my python experience to handle. Here is a link to the pull request that I submitted to Spyral.</p>
+<p><a href="https://github.com/platipy/spyral/pull/39">https://github.com/platipy/spyral/pull/39</a></p>
+<p>When I submitted my pull request I had a great experience interacting with the lead developer <a href="https://github.com/acbart">acbart</a>. He answered my question within a day of me submitting the pull request and helping to think out a solution to the issue that the bug presented. While ultimately my bugfix has not been implemented, I'd like to think that by submitting it I helped <a href="https://github.com/acbart">acbart</a> work out a framework design choice for Spyral.</p>
