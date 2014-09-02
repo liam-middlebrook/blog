@@ -1,0 +1,25 @@
+---
+layout: post
+title: Advanced FOSS Hack Proposal 0
+tags: [ADVFOSS]
+---
+## Dance Pad Controller Refurbish
+I've recently acquired an old Dance Dance
+Revolution dance-pad controller. My plan for
+this hack is to interface it with an Arduino
+so it can be used as a virtual keyboard.
+
+## Prerequisites:
+
+* PySerial (pip module)
+
+* Arduino
+
+## Upstream Repository:
+http://pypi.python.org
+
+## Upstream Authors:
+[@msoucy](https://github.com/msoucy)
+
+## Anticipated License
+MIT License
