@@ -3,8 +3,7 @@ layout: post
 title: Advanced FOSS Community Contrib 0: vogl
 tags: [ADVFOSS, Community]
 ---
-Community Contribution
-======================
+#Community Contribution
 
 **My blog still isn't back up so I'm just going to post this here.**
 
