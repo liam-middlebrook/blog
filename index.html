@@ -1,13 +1,96 @@
----
-layout: default
-title: Liam Middlebrook - Game Developer
----
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Liam Middlebrook - Game Developer</title>
+        <meta name="viewport" content="width=device-width">
 
-<div id="home">
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="http://gearchicken.com/blog/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="http://gearchicken.com/blog/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="http://gearchicken.com/blog/">Liam Middlebrook - Game Developer</a></h1>
+            <a class="extra" href="http://gearchicken.com/">site-home</a>
+          </div>
+
+          <div id="home">
   <h1>Blog Posts</h1>
   <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.url}}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+    
+      <li><span>02 Sep 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/09/02/14-hackprop0.html">Advanced FOSS Hack Proposal 0</a></li>
+    
+      <li><span>17 Aug 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/08/17/force-rebot-linux.html">Force Halt/Reboot on GNU/Linux Using /proc/</a></li>
+    
+      <li><span>12 Aug 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/08/12/working-hfoss-site.html">Working on the HFOSS Site</a></li>
+    
+      <li><span>02 Jul 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/07/02/c11-support-with-travis-ci-using-g.html">C++11 Support with Travis-CI using g++</a></li>
+    
+      <li><span>14 May 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/05/14/rhetological-fallcies-quiz.html">Rhetological Fallcies Quiz</a></li>
+    
+      <li><span>14 May 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/05/14/litreview-2-rhetological-fallacies.html">Litreview 2: Rhetological Fallacies</a></li>
+    
+      <li><span>12 May 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/05/12/barcamp-an-unconference.html">BarCamp - An Unconference</a></li>
+    
+      <li><span>07 May 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/05/07/math-island-a-design-concept.html">Math Island: A Design Concept</a></li>
+    
+      <li><span>16 Apr 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/04/16/hfoss-final-project-team-proposal.html">HFOSS Final Project Team Proposal</a></li>
+    
+      <li><span>14 Apr 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/04/14/rocpy-using-collections-defaultdict-as-a-tree.html">RocPy - Using collections.defaultdict as a Tree</a></li>
+    
+      <li><span>09 Apr 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/04/09/curriculum-review-4th-grade-math-for-ma-and-ny.html">Curriculum Review - 4th Grade Math for MA and NY</a></li>
+    
+      <li><span>30 Mar 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/03/30/allowing-steamos-to-install-packages-from-debian-wheezy-with-aptitude.html">Allowing SteamOS to Install Packages From Debian Wheezy With Aptitude</a></li>
+    
+      <li><span>19 Mar 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/03/19/community-architecture-analysis-monogame.html">Community Architecture Analysis: MonoGame</a></li>
+    
+      <li><span>17 Mar 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/03/17/making-robots-drive.html">Making Robots Drive</a></li>
+    
+      <li><span>13 Mar 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/03/13/hfoss-comarch-team-proposal.html">HFOSS - Commarch Team Proposal</a></li>
+    
+      <li><span>26 Feb 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/02/26/the-history-of-minx-part-1.html">The History of MINX (Part 1)</a></li>
+    
+      <li><span>24 Feb 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/02/24/rochester-civic-app-challenge-kickoff-hackathon.html">Rochester Civic App Challenge Kickoff Hackathon</a></li>
+    
+      <li><span>24 Feb 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/02/24/rochester-att-civic-app-challenge-press-conference.html">Rochester AT&T Civic App Challenge Press Conference</a></li>
+    
+      <li><span>24 Feb 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/02/24/hw-bugfix.html">HW: Bugfix</a></li>
+    
+      <li><span>12 Feb 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/02/12/hfoss-quiz-1.html">HFOSS - Quiz 1</a></li>
+    
+      <li><span>10 Feb 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/02/10/litreview-weber-the-success-of-open-source-chapter-3-what-is-open-source-and-how-does-it-work.html">LitReview Weber - The Success of Open Source Chapter 3: What Is Open Source and How Does It Work?</a></li>
+    
+      <li><span>04 Feb 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/02/04/russian-chicken-inspector.html">Russian Chicken Inspector</a></li>
+    
+      <li><span>30 Jan 2014</span> &raquo; <a href="http://gearchicken.com/blog/2014/01/30/hello-world-2.html">Hello World!</a></li>
+    
   </ul>
 </div>
+
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Liam Middlebrook<br />
+                Game Developer<br />
+                liammiddlebrook@google.com
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                GitHub: <a href="https://github.com/liam-middlebrook">@liam-middlebrook</a><br />
+                Twitter: <a href="https://twitter.com/liammiddlebrook">@liammiddlebrook</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>
