@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>C++11 Support with Travis-CI using g++</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="http://gearchicken.com/blog/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="http://gearchicken.com/blog/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="http://gearchicken.com/blog/">Liam Middlebrook - Game Developer</a></h1>
+            <a class="extra" href="http://gearchicken.com/">site-home</a>
+          </div>
+
+          <h2>C++11 Support with Travis-CI using g++</h2>
+<p class="meta">02 Jul 2014</p>
+
+<div class="post">
+<p>Today I was working on adding Travis-CI support to my project 
+<a href="http://libminx.org">MINX</a> and I came across an issue that had 
+happened to several people, but no single source had the solution. 
+I compile MINX with g++ (just because that&#39;s what I&#39;m used to). 
+A few things inside of MINX require C++11 so I&#39;d normally just add 
+a * <strong>-std=c++11</strong> * argument in my makefile.</p>
+
+<p>To my surprise the virtual machines that Travis-CI uses have g++ 4.6 
+installed, this is an issue for anyone who wants track the build 
+status of a C++11 program with Travis. After a few minutes of 
+searching I came across a link that provided me with an Ubuntu tools 
+PPA that contained some newer versions of g++. Below I&#39;ve included a 
+few lines that will allow you to use * <strong>-std=c++11</strong> * with g++ 
+for your .travis.yml file:</p>
+<div class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="l-Scalar-Plain">language</span><span class="p-Indicator">:</span> <span class="l-Scalar-Plain">cpp</span>
+<span class="l-Scalar-Plain">before_install</span><span class="p-Indicator">:</span>
+<span class="c1"># We need this line to have g++4.8 available in apt</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">sudo apt-get update -qq</span>
+<span class="l-Scalar-Plain">install</span><span class="p-Indicator">:</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">sudo apt-get install -qq gcc-4.8 g++-4.8</span> 
+<span class="c1"># We want to compile with g++ 4.8 when rather than the default g++</span>
+  <span class="p-Indicator">-</span> <span class="l-Scalar-Plain">sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-4.8 90</span>
+</code></pre></div>
+</div>
+
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Liam Middlebrook<br />
+                Game Developer<br />
+                liammiddlebrook@google.com
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                GitHub: <a href="https://github.com/liam-middlebrook">@liam-middlebrook</a><br />
+                Twitter: <a href="https://twitter.com/liammiddlebrook">@liammiddlebrook</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>

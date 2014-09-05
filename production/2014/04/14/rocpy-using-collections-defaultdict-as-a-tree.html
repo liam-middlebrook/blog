@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>RocPy - Using collections.defaultdict as a Tree</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="http://gearchicken.com/blog/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="http://gearchicken.com/blog/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <h1 class="title"><a href="http://gearchicken.com/blog/">Liam Middlebrook - Game Developer</a></h1>
+            <a class="extra" href="http://gearchicken.com/">site-home</a>
+          </div>
+
+          <h2>RocPy - Using collections.defaultdict as a Tree</h2>
+<p class="meta">14 Apr 2014</p>
+
+<div class="post">
+<p>Last month on Tuesday the 18th, students from both my HFOSS class as well as students 
+from the Advanced FOSS class were supposed to go to March&#39;s RocPy meeting. When I had 
+arrived with my car, ready to carpool some of the students over I was the only person 
+who had brought their car. After waiting for about 10 minutes nobody else had arrived 
+with a vehicle that was suitable for driving others in. After making a few calls a few
+people gave up and decided not to go to RocPy. The remainder of us piled into my car 
+and made the long (15 minute) journey to the University of Rochester.
+The remainder of this blogpost will be in code below.</p>
+<div class="highlight"><pre><code class="language-python" data-lang="python"><span class="c">#First off we&#39;re going to declare our new tree</span>
+<span class="kn">import</span> <span class="nn">collections</span>
+<span class="k">def</span> <span class="nf">tree</span><span class="p">():</span> <span class="k">return</span> <span class="n">collections</span><span class="o">.</span><span class="n">defaultdict</span><span class="p">(</span><span class="n">tree</span><span class="p">)</span>
+
+<span class="c">#Now let&#39;s make a new tree object</span>
+<span class="c">#I&#39;m going to make it themed like a skill tree in a videogame</span>
+<span class="n">talents</span> <span class="o">=</span> <span class="n">tree</span><span class="p">()</span>
+
+<span class="c">#Lets make the root node of our tree Magic, because I&#39;m making a Magic skillset tree</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">]</span>
+
+<span class="c">#Now I&#39;ll add the subtalents of magic</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;fireball&quot;</span><span class="p">]</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;magic arrow&quot;</span><span class="p">]</span>
+
+<span class="c">#And their subtalents</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;fireball&quot;</span><span class="p">][</span><span class="s">&quot;crazy big fireball&quot;</span><span class="p">]</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;fireball&quot;</span><span class="p">][</span><span class="s">&quot;100 tiny fireballs&quot;</span><span class="p">]</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;magic arrow&quot;</span><span class="p">][</span><span class="s">&quot;ice arrow&quot;</span><span class="p">]</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;magic arrow&quot;</span><span class="p">][</span><span class="s">&quot;exploding arrow&quot;</span><span class="p">]</span>
+
+<span class="c">#Now that we have our skills defined, lets give them some meaning.</span>
+<span class="c">#I&#39;m going to mark each skill that the player &quot;knows&quot; with a value of 1</span>
+<span class="c">#all &quot;unknown&quot; skills will get a value of 0</span>
+
+<span class="c">#NOTE: This only will work with Leaf Nodes</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;fireball&quot;</span><span class="p">][</span><span class="s">&quot;crazy big fireball&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;fireball&quot;</span><span class="p">][</span><span class="s">&quot;100 tiny fireballs&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;magic arrow&quot;</span><span class="p">][</span><span class="s">&quot;ice arrow&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">0</span>
+<span class="n">talents</span><span class="p">[</span><span class="s">&quot;magic&quot;</span><span class="p">][</span><span class="s">&quot;magic arrow&quot;</span><span class="p">][</span><span class="s">&quot;exploding arrow&quot;</span><span class="p">]</span> <span class="o">=</span> <span class="mi">0</span>
+
+<span class="c">#And now if you were to run</span>
+<span class="k">print</span> <span class="n">talents</span>
+
+<span class="c">#You should get the following!</span>
+<span class="c">#defaultdict(, {&#39;magic&#39;: defaultdict(, {&#39;fireball&#39;: defaultdict(, {&#39;100 tiny fireballs&#39;: 0, &#39;crazy big fireball&#39;: 1}), &#39;magic arrow&#39;: defaultdict(, {&#39;exploding arrow&#39;: 0, &#39;ice arrow&#39;: 0})})})</span>
+
+<span class="c">#Which Formatted out nicely* (in a more tree friendly format) will look like</span>
+<span class="c">#defaultdict(, {&#39;magic&#39;: defaultdict(,</span>
+<span class="c">#                   {&#39;fireball&#39;: defaultdict(,</span>
+<span class="c">#                       {&#39;100 tiny fireballs&#39;: 0</span>
+<span class="c">#                       , &#39;crazy big fireball&#39;: 1}),</span>
+<span class="c">#                   &#39;magic arrow&#39;: defaultdict(,</span>
+<span class="c">#                       {&#39;exploding arrow&#39;: 0,</span>
+<span class="c">#                       &#39;ice arrow&#39;: 0})</span>
+<span class="c">#               })})</span>
+</code></pre></div>
+</div>
+
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                Liam Middlebrook<br />
+                Game Developer<br />
+                liammiddlebrook@google.com
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                GitHub: <a href="https://github.com/liam-middlebrook">@liam-middlebrook</a><br />
+                Twitter: <a href="https://twitter.com/liammiddlebrook">@liammiddlebrook</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Liam Middlebrook - Game Developer</title>
+    <link>http://gearchicken.com/blog</link>
+    <description>RSS feed for Liam Middlebrook - Game Developer</description>
+    <pubDate>Tue, 02 Sep 2014 00:00:00 -0400</pubDate>
+    <item>
+      <title>Advanced FOSS Hack Proposal 0</title>
+      <link>http://gearchicken.com/blog/2014/09/02/14-hackprop0.html</link>
+      <description></description>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/09/02/14-hackprop0.html</guid>
+      <dc:date>2014-09-02T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Force Halt/Reboot on GNU/Linux Using /proc/</title>
+      <link>http://gearchicken.com/blog/2014/08/17/force-rebot-linux.html</link>
+      <description></description>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/08/17/force-rebot-linux.html</guid>
+      <dc:date>2014-08-17T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Working on the HFOSS Site</title>
+      <link>http://gearchicken.com/blog/2014/08/12/working-hfoss-site.html</link>
+      <description></description>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/08/12/working-hfoss-site.html</guid>
+      <dc:date>2014-08-12T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>C++11 Support with Travis-CI using g++</title>
+      <link>http://gearchicken.com/blog/2014/07/02/c11-support-with-travis-ci-using-g.html</link>
+      <description></description>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/07/02/c11-support-with-travis-ci-using-g.html</guid>
+      <dc:date>2014-07-02T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Rhetological Fallcies Quiz</title>
+      <link>http://gearchicken.com/blog/2014/05/14/rhetological-fallcies-quiz.html</link>
+      <description></description>
+      <pubDate>Wed, 14 May 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/05/14/rhetological-fallcies-quiz.html</guid>
+      <dc:date>2014-05-14T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Litreview 2: Rhetological Fallacies</title>
+      <link>http://gearchicken.com/blog/2014/05/14/litreview-2-rhetological-fallacies.html</link>
+      <description></description>
+      <pubDate>Wed, 14 May 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/05/14/litreview-2-rhetological-fallacies.html</guid>
+      <dc:date>2014-05-14T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>BarCamp - An Unconference</title>
+      <link>http://gearchicken.com/blog/2014/05/12/barcamp-an-unconference.html</link>
+      <description></description>
+      <pubDate>Mon, 12 May 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/05/12/barcamp-an-unconference.html</guid>
+      <dc:date>2014-05-12T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Math Island: A Design Concept</title>
+      <link>http://gearchicken.com/blog/2014/05/07/math-island-a-design-concept.html</link>
+      <description></description>
+      <pubDate>Wed, 07 May 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/05/07/math-island-a-design-concept.html</guid>
+      <dc:date>2014-05-07T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>HFOSS Final Project Team Proposal</title>
+      <link>http://gearchicken.com/blog/2014/04/16/hfoss-final-project-team-proposal.html</link>
+      <description></description>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/04/16/hfoss-final-project-team-proposal.html</guid>
+      <dc:date>2014-04-16T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>RocPy - Using collections.defaultdict as a Tree</title>
+      <link>http://gearchicken.com/blog/2014/04/14/rocpy-using-collections-defaultdict-as-a-tree.html</link>
+      <description></description>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/04/14/rocpy-using-collections-defaultdict-as-a-tree.html</guid>
+      <dc:date>2014-04-14T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Curriculum Review - 4th Grade Math for MA and NY</title>
+      <link>http://gearchicken.com/blog/2014/04/09/curriculum-review-4th-grade-math-for-ma-and-ny.html</link>
+      <description></description>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/04/09/curriculum-review-4th-grade-math-for-ma-and-ny.html</guid>
+      <dc:date>2014-04-09T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Allowing SteamOS to Install Packages From Debian Wheezy With Aptitude</title>
+      <link>http://gearchicken.com/blog/2014/03/30/allowing-steamos-to-install-packages-from-debian-wheezy-with-aptitude.html</link>
+      <description></description>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/03/30/allowing-steamos-to-install-packages-from-debian-wheezy-with-aptitude.html</guid>
+      <dc:date>2014-03-30T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Community Architecture Analysis: MonoGame</title>
+      <link>http://gearchicken.com/blog/2014/03/19/community-architecture-analysis-monogame.html</link>
+      <description></description>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/03/19/community-architecture-analysis-monogame.html</guid>
+      <dc:date>2014-03-19T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Making Robots Drive</title>
+      <link>http://gearchicken.com/blog/2014/03/17/making-robots-drive.html</link>
+      <description></description>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/03/17/making-robots-drive.html</guid>
+      <dc:date>2014-03-17T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>HFOSS - Commarch Team Proposal</title>
+      <link>http://gearchicken.com/blog/2014/03/13/hfoss-comarch-team-proposal.html</link>
+      <description></description>
+      <pubDate>Thu, 13 Mar 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/03/13/hfoss-comarch-team-proposal.html</guid>
+      <dc:date>2014-03-13T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>The History of MINX (Part 1)</title>
+      <link>http://gearchicken.com/blog/2014/02/26/the-history-of-minx-part-1.html</link>
+      <description></description>
+      <pubDate>Wed, 26 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2014/02/26/the-history-of-minx-part-1.html</guid>
+      <dc:date>2014-02-26T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Rochester Civic App Challenge Kickoff Hackathon</title>
+      <link>http://gearchicken.com/blog/2014/02/24/rochester-civic-app-challenge-kickoff-hackathon.html</link>
+      <description></description>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2014/02/24/rochester-civic-app-challenge-kickoff-hackathon.html</guid>
+      <dc:date>2014-02-24T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Rochester AT&amp;T Civic App Challenge Press Conference</title>
+      <link>http://gearchicken.com/blog/2014/02/24/rochester-att-civic-app-challenge-press-conference.html</link>
+      <description></description>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2014/02/24/rochester-att-civic-app-challenge-press-conference.html</guid>
+      <dc:date>2014-02-24T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>HW: Bugfix</title>
+      <link>http://gearchicken.com/blog/2014/02/24/hw-bugfix.html</link>
+      <description></description>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2014/02/24/hw-bugfix.html</guid>
+      <dc:date>2014-02-24T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>HFOSS - Quiz 1</title>
+      <link>http://gearchicken.com/blog/2014/02/12/hfoss-quiz-1.html</link>
+      <description></description>
+      <pubDate>Wed, 12 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2014/02/12/hfoss-quiz-1.html</guid>
+      <dc:date>2014-02-12T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>LitReview Weber - The Success of Open Source Chapter 3: What Is Open Source and How Does It Work?</title>
+      <link>http://gearchicken.com/blog/2014/02/10/litreview-weber-the-success-of-open-source-chapter-3-what-is-open-source-and-how-does-it-work.html</link>
+      <description></description>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2014/02/10/litreview-weber-the-success-of-open-source-chapter-3-what-is-open-source-and-how-does-it-work.html</guid>
+      <dc:date>2014-02-10T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Russian Chicken Inspector</title>
+      <link>http://gearchicken.com/blog/2014/02/04/russian-chicken-inspector.html</link>
+      <description></description>
+      <pubDate>Tue, 04 Feb 2014 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2014/02/04/russian-chicken-inspector.html</guid>
+      <dc:date>2014-02-04T00:00:00-05:00</dc:date>
+    </item>
+    <item>
+      <title>Hello World!</title>
+      <link>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</link>
+      <description></description>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
+      <dc:date>2014-01-30T00:00:00-05:00</dc:date>
+    </item>
+    <dc:date>2014-09-02T00:00:00-04:00</dc:date>
+  </channel>
+</rss>
