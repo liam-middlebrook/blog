@@ -2,6 +2,7 @@
 gitmsg=$(git log -1 --pretty=%B)
 echo ${gitmsg}
 git pull
+git push
 jekyll build -d ./production
 git checkout production
 cp -R ./production/* ./
