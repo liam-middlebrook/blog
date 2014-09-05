@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advanced FOSS Community Contrib 0: vogl
+title: "Advanced FOSS Community Contrib 0: vogl"
 tags: [ADVFOSS, Community]
 ---
 #Community Contribution
