@@ -9,6 +9,8 @@ Revolution dance-pad controller. My plan for
 this hack is to interface it with an Arduino
 so it can be used as a virtual keyboard.
 
+I *might* do this in C instead, because I'm
+having slight issues with time delays in python.
 ## Prerequisites:
 
 * PySerial (pip module)
