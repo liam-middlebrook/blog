@@ -19,7 +19,7 @@ so it can be used as a virtual keyboard.
 http://pypi.python.org
 
 ## Upstream Authors:
-[@msoucy](https://github.com/msoucy)
+Professor Harris
 
 ## Anticipated License
 MIT License
