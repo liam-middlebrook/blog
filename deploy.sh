@@ -11,4 +11,4 @@ git add *
 git commit -am "Publishing: ${gitmsg}"
 
 git push
-
+git checkout master
