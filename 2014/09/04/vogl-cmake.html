@@ -1,0 +1,7 @@
+<h1>Community Contribution</h1>
+
+<p><strong>My blog still isn&#39;t back up so I&#39;m just going to post this here.</strong></p>
+
+<p>My first community contribution was to Valve Software&#39;s OpenGL Debugging Suite known as <a href="https://github.com/ValveSoftware/vogl/">vogl</a>. I fixed an issue where Fedora users had their include files for <code>dwarf.h</code> inside of their <code>/usr/include/libdwarf/</code> directory, while the CMakeLists.txt file had been configured for Ubuntu/Debian users who have the header in the <code>/usr/include/</code> directory.</p>
+
+<p><a href="https://github.com/ValveSoftware/vogl/pull/165">My Pull Request</a> adds in the <code>/usr/include/libdwarf/</code> directory for the CMake includes. Now Fedora users can build vogl!</p>
