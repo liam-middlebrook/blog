@@ -1,0 +1,13 @@
+---
+layout: post
+title: "RocPY September 2014"
+tags: [ADVFOSS, Community]
+---
+At this month's RocPY meeting [@ryansb](http://rsb.io) came
+to Rochester to talk about [HFLOSSK](https://github.com/decause/hflossk).
+
+While this was the main focus of this month's RocPY meeting, I was also
+encouraged to give a lightning talk about some [work](https://github.com/liam-middlebrook/missing-license)
+and [other frivolity](http://reddit.com/r/decausegonewild).
+As one may imagine my professor [Remy DeCausemaker](https://github.com/decause)
+was pleased with the talk.
