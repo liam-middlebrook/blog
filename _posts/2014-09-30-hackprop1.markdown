@@ -41,7 +41,7 @@ Raspberry Pi.
 I plan to do complete this as a solo project.
 
 ### Upstream Mentors
-TBA
+[@ryansb](https://github.com/ryansb)
 
 ### Project Milestones
 * October 7th, 2014 - Rectangle drawing to screen
