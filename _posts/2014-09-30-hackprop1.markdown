@@ -8,23 +8,23 @@ An API that uses WebSockets that will allow for more direct and fast
 communication with the BlockyTalky unit. More details will be fleshed out on
 the project once I meet with my development team.
 
-## Requirements
+### Requirements
 * [BlockyTalky](https://github.com/tufts-LPC/blockytalky)
 
 * A Raspberry Pi with the [BrickPi](http://www.dexterindustries.com/BrickPi/)
 daughterboard
 
-## Team Members
+### Team Members
 My team members are not currently in the Advanced FOSS class but are also
 on payroll from MAGIC to work on BlockyTalky.
 
-## Upstream Mentors
+### Upstream Mentors
 TBA
 
-## Project Milestones
+### Project Milestones
 Will be decided during the planning meeting.
 
-## License
+### License
 [Apache 2](https://github.com/tufts-LPC/blockytalky/blob/master/LICENSE.md)
 
 
@@ -32,18 +32,18 @@ Will be decided during the planning meeting.
 A game of ping-pong written in ARM Assembly Language for use on the
 Raspberry Pi.
 
-## Requirements
+### Requirements
 * A Raspberry Pi
 
 * A Compiler toolchain that supports ARMv6
 
-## Team Members
+### Team Members
 I plan to do complete this as a solo project.
 
-## Upstream Mentors
+### Upstream Mentors
 TBA
 
-## Project Milestones
+### Project Milestones
 * October 7th, 2014 - Rectangle drawing to screen
 
 * October 9th, 2014 - Rectangle that moves without user input
@@ -52,8 +52,8 @@ TBA
 
 * October 16th, 2014 - Rectangles that collide against one another
 
-## License
+### License
 [MIT](https://github.com/timoxley/osi-licenses-full/blob/master/licenses/MIT.md)
 
-## Additional Notes
+### Additional Notes
 I will be using the [Cambridge Baking Pi Tutorial](http://bit.ly/1trCQRd)
