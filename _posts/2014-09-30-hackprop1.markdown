@@ -21,7 +21,7 @@ on payroll from MAGIC to work on BlockyTalky.
 ## Upstream Mentors
 TBA
 
-## Project Milstones
+## Project Milestones
 Will be decided during the planning meeting.
 
 ## License
@@ -29,3 +29,31 @@ Will be decided during the planning meeting.
 
 
 # Pong for the Raspberry Pi
+A game of ping-pong written in ARM Assembly Language for use on the
+Raspberry Pi.
+
+## Requirements
+* A Raspberry Pi
+
+* A Compiler toolchain that supports ARMv6
+
+## Team Members
+I plan to do complete this as a solo project.
+
+## Upstream Mentors
+TBA
+
+## Project Milestones
+* October 7th, 2014 - Rectangle drawing to screen
+
+* October 9th, 2014 - Rectangle that moves without user input
+
+* October 14th, 2014 - Rectangle moving from user input
+
+* October 16th, 2014 - Rectangles that collide against one another
+
+## License
+[MIT](https://github.com/timoxley/osi-licenses-full/blob/master/licenses/MIT.md)
+
+## Additional Notes
+I will be using the [Cambridge Baking Pi Tutorial](http://bit.ly/1trCQRd)
