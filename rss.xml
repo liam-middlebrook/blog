@@ -8,7 +8,15 @@
     <title>Liam Middlebrook - Game Developer</title>
     <link>http://gearchicken.com/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
-    <pubDate>Tue, 16 Sep 2014 00:00:00 -0400</pubDate>
+    <pubDate>Mon, 29 Sep 2014 00:00:00 -0400</pubDate>
+    <item>
+      <title>Arduino Based Dancepad Controller: Postmortem</title>
+      <link>http://gearchicken.com/blog/2014/09/29/dancepad-arduino-postmortem.html</link>
+      <description></description>
+      <pubDate>Mon, 29 Sep 2014 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2014/09/29/dancepad-arduino-postmortem.html</guid>
+      <dc:date>2014-09-29T00:00:00-04:00</dc:date>
+    </item>
     <item>
       <title>RocPY September 2014</title>
       <link>http://gearchicken.com/blog/2014/09/16/rocpy.html</link>
@@ -209,6 +217,6 @@
       <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
       <dc:date>2014-01-30T00:00:00-05:00</dc:date>
     </item>
-    <dc:date>2014-09-16T00:00:00-04:00</dc:date>
+    <dc:date>2014-09-29T00:00:00-04:00</dc:date>
   </channel>
 </rss>
