@@ -27,5 +27,5 @@ project deadline I still was able to set up a temporary rig using my Arduino
 and 4 tactical push-buttons. I've included a few images below that show off
 the setup.
 
-![](http://i.imgur.com/n7clUNx.jpg)
-![](http://i.imgur.com/4q2e9Cn.jpg)
+![](http://i.imgur.com/Bv49jbxl.jpg)
+![](http://i.imgur.com/dLYAZtrl.jpg)
