@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Advanced FOSS Hackprop 1"
+tags: [ADVFOSS]
+---
+# BlockyTalky Interaction API
+An API that uses WebSockets that will allow for more direct and fast
+communication with the BlockyTalky unit. More details will be fleshed out on
+the project once I meet with my development team.
+
+## Requirements
+* [BlockyTalky](https://github.com/tufts-LPC/blockytalky)
+
+* A Raspberry Pi with the [BrickPi](http://www.dexterindustries.com/BrickPi/)
+daughterboard
+
+## Team Members
+My team members are not currently in the Advanced FOSS class but are also
+on payroll from MAGIC to work on BlockyTalky.
+
+## Upstream Mentors
+TBA
+
+## Project Milstones
+Will be decided during the planning meeting.
+
+## License
+[Apache 2](https://github.com/tufts-LPC/blockytalky/blob/master/LICENSE.md)
+
+
+# Pong for the Raspberry Pi
