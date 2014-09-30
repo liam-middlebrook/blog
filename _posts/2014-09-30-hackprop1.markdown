@@ -27,6 +27,7 @@ Will be decided during the planning meeting.
 ### License
 [Apache 2](https://github.com/tufts-LPC/blockytalky/blob/master/LICENSE.md)
 
+-------------------------------------------------------------------------------
 
 # Pong for the Raspberry Pi
 A game of ping-pong written in ARM Assembly Language for use on the
