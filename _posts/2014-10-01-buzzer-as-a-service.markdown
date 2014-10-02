@@ -24,7 +24,7 @@ changes the state of one of the Pi's GPIO port's to HIGH when triggered.
 I plan to complete this as a solo project.
 
 ## Upstream Mentors
-TBA
+[@ryansb](https://github.com/ryansb)
 
 ## Project Milestones
 
