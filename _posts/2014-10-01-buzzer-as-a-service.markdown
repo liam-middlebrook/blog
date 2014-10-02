@@ -8,9 +8,9 @@ Create an IRC bot that will play an audible buzzer sound whenever the "mood" of
 a channel becomes too negative. The "mood" of a channel will be tracked under
 a few different conditions, some example ideas follow below:
 
-* The use of the string *"no"* in any form.
+* The use of the string `no` in any form.
 
-* The use of the *"<buzzer>"* tag.
+* The use of the `<buzzer>` tag.
 
 In addition to tracking certain conditions I plan to have Buzzer as a Service
 also allow extensions. A possible extension might be a hardware buzzer that
