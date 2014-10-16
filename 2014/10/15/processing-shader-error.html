@@ -29,7 +29,13 @@
 to the <a href="https://github.com/processing/processing">Processing</a> GitHub repository.
 This pull request covered
 <a href="https://github.com/processing/processing/issues/2593">an issue with a confusing error message</a>
-that caused unused PShader uniforms to be removed from the compiled shader. </p>
+that caused unused PShader uniforms to be removed from the compiled shader.</p>
+
+<p>This was largely an issue for shader developers because if they changed the
+shader code that they were writing to not use a specific uniform then it would
+be removed from the compiled shader code, and then the Processing code that
+was using the shader, would throw an error when the uniform that was &quot;missing&quot;
+would be assigned to.</p>
 
 </div>
 
