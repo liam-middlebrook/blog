@@ -28,6 +28,17 @@
 <p>For my second project in <a href="http://advfoss-ritigm.rhcloud.com">AdvFOSS</a> I decided
 to work on <a href="https://github.com/liam-middlebrook/buzzer-as-a-service">Buzzer as a Service</a></p>
 
+<p>Buzzer as a Service is hosted on <a href="https://pypi.python.org/pypi/buzzer_as_a_service/">PyPi</a>
+and currently scans a specified IRC channel for messages that contain the string &#39;buzzer&#39;
+or any string with a &#39;b&#39; followed by at least one &#39;z&#39; and ending with a &#39;t&#39;.</p>
+
+<p>There is also extension support for Buzzer as a Service where users just
+make a package that lives within the <code>buzzer_as_a_service</code> package.
+All plugins are automatically loaded and executed upon a buzzer call.
+I have already implemented one sample plugin
+<a href="https://pypi.python.org/pypi/buzzer_as_a_service.message/">buzzer<em>as</em>a_service.message</a>.
+This plugin just displays the message, user, and channel that was buzzed.</p>
+
 </div>
 
 
