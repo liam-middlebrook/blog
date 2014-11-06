@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Advanced FOSS Hackprop 2"
+tags: [ADVFOSS]
+---
+# OpenCL Beginner Tutorials
+A collection of tutorials explaining the basic concepts of General
+Purpose GPU Computing and how to use OpenCL. The tutorial series will
+cover the steps ranging from getting OpenCL installed and setup to
+generating algorithmic images using the GPU.
+
+### Requirements
+An OpenCL 1.1 Compatible Graphics Card/Chipset
+
+### Team Members
+I plan to do this as a solo project.
+
+### Upstream Mentors
+TBA
+
+### Project Milestones
+Will be decided during the planning meeting.
+
+### License
+[GPLv3+](https://github.com/timoxley/osi-licenses-full/blob/master/licenses/GPL-3.0.md)
+
+-------------------------------------------------------------------------------
+
+# FOSS Peg Physics Game
+A game where a ball falls and hits a series of pegs on the way down.
+As the ball bounces off the pegs the player gets extra points.
+The player initially aims the ball and where it falls.
+
+### Team Members
+I plan to complete this as a solo project.
+
+### Upstream Mentors
+TBA
+
+### Project Milestones
+TBA
+
+### License
+[GPLv3+](https://github.com/timoxley/osi-licenses-full/blob/master/licenses/GPL-3.0.md))
