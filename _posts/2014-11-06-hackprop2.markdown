@@ -26,16 +26,15 @@ Will be decided during the planning meeting.
 
 -------------------------------------------------------------------------------
 
-# FOSS Peg Physics Game
-A game where a ball falls and hits a series of pegs on the way down.
-As the ball bounces off the pegs the player gets extra points.
-The player initially aims the ball and where it falls.
+# GLEW Bindings for Rust
+Write GLEW Bindings for the Rust language. Allowing users to use OpenGL
+with the Rust language in native bindings rather than using C FFI.
 
 ### Team Members
 I plan to complete this as a solo project.
 
 ### Upstream Mentors
-TBA
+akyte
 
 ### Project Milestones
 TBA
