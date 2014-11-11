@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OSI Licenses Full: A FOSS ProjectBootstrapping Tool"
+title: "OSI Licenses Full: A FOSS Project Bootstrapping Tool"
 tags: [ADVFOSS, Community]
 ---
 
@@ -19,4 +19,5 @@ a new project was to run a command and I decided that I was going to fork
 osi-licenses-full into a Python terminal script.
 
 My version of osi-licenses-full is hosted on [PyPi](https://pypi.python.org/pypi/osi_licenses_full)
-and downloadable via the command `pip install osi_licenses_full`
+and [GitHub](https://github.com/liam-middlebrook/osi-licenses-full). It is
+downloadable via the command `pip install osi_licenses_full`
