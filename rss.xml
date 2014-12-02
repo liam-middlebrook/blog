@@ -8,7 +8,15 @@
     <title>Liam Middlebrook - Game Developer</title>
     <link>http://gearchicken.com/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
-    <pubDate>Mon, 01 Dec 2014 00:00:00 -0500</pubDate>
+    <pubDate>Tue, 02 Dec 2014 00:00:00 -0500</pubDate>
+    <item>
+      <title>24 Days of Pull Requests | BreakOuttaHere</title>
+      <link>http://gearchicken.com/blog/2014/12/02/pulls-01-BreakOuttaHere.html</link>
+      <description></description>
+      <pubDate>Tue, 02 Dec 2014 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2014/12/02/pulls-01-BreakOuttaHere.html</guid>
+      <dc:date>2014-12-02T00:00:00-05:00</dc:date>
+    </item>
     <item>
       <title>24 Days of Pull Requests | Thrust</title>
       <link>http://gearchicken.com/blog/2014/12/01/pulls-01-thrust.html</link>
@@ -305,6 +313,6 @@
       <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
       <dc:date>2014-01-30T00:00:00-05:00</dc:date>
     </item>
-    <dc:date>2014-12-01T00:00:00-05:00</dc:date>
+    <dc:date>2014-12-02T00:00:00-05:00</dc:date>
   </channel>
 </rss>
