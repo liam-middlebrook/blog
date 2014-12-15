@@ -4,7 +4,7 @@ title: "A Note on Large Team Projects [2]"
 tags: [ADVFOSS, Community]
 ---
 In my last post I started to talk about the importance of constant
-communication when workin on a large team project. After working on
+communication when working on a large team project. After working on
 teams of all sizes with members who had various levels of communication
 I can certainly say this is where most teams simply fail. Sadly the aspect
 of communication isn't that which will hurt the team the most when working
