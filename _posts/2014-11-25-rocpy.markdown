@@ -1,0 +1,16 @@
+---
+layout: post
+title: "RocPy: Interfacing C with Python"
+tags: [ADVFOSS, Community]
+---
+Sadly this months RocPy took to the trend of long talks
+which for the majority of the students could be deemed
+as 'stale'.
+
+Luckily we were able to have lightning talks this meeting
+since we started the meeting off with lightning talks
+while waiting for some of the organizers to show up.
+
+I'm excited for next month's RocPy since it will be
+the HFOSS finals and will be hosted in the
+[MAGIC Center](http://magic.rit.edu).
