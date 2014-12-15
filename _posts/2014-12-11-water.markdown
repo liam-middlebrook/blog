@@ -1,0 +1,15 @@
+---
+layout: post
+title: "OpenGL Water"
+tags: [ADVFOSS, Community, Graphics]
+---
+Over the summer I decided that I wanted to spend some more time
+messing around with OpenGL and creating cool demos. One of the demos
+that I ended up spending a lot of my time on a Water demo.
+
+The water produced in this demo is all predetermined by different
+wave displacement maps. It is intended to have very small amplitude waves
+and to be more of background water rather than for the user to see the waves
+working close up. This is because I'm not actually manipulating vertex data
+but rather just calculating the color for each fragment depending on its
+position.
