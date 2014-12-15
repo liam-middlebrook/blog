@@ -1,0 +1,17 @@
+---
+layout: post
+title: "RocPy: Other Languages With Python"
+tags: [ADVFOSS, Community]
+---
+For this month's RocPy the topic was interfacing other
+languages with Python. This seemed like a wonderful idea
+because for the majority of projects that my friends
+and I work on we use languages other than Python.
+
+Sadly this meeting was less successful than what
+I had expected it to be. A large portion of the 
+meeting was spent talking about interfacing
+Python with more "legacy" languages like Fortran.
+We also didn't have enough time to do lightning talks
+for this RocPy because of the amount of information
+that was in this talk.
