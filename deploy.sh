@@ -3,7 +3,7 @@ gitmsg=$(git log -1 --pretty=%B)
 echo ${gitmsg}
 git pull
 git push
-~/.gem/ruby/gems/jekyll-2.4.0/bin/jekyll build -d ./production
+jekyll build -d ./production
 git checkout production
 cp -R ./production/* ./
 rm -rf ./production
