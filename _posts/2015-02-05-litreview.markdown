@@ -1,47 +1,57 @@
 ---
 layout: post
-title: Everything is A Remix
+title: LitReview: Primer for FOSS Projects
 tags: [BNLFOSS]
 ---
 
 ## Who
-Kirby Ferguson
+Richard Fontana
+Bradley M. Kuhn
+Eben Moglen
+Matthew Norwood
+Daniel B. Ravicher
+Karen Sandler
+James Vasile
+Aaron Williamson
 
 ## What
-Everything is a Remix
+A Legal Issues Primer for Open Source and
+Free Software Projects
 
 ## Where
-[YouTube](https://www.youtube.com/watch?v=coGpmA4saEk)
+[PDF](http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf)
 
 ## When
-Published on YouTube June 25, 2012
+Published on June 2008
 
 ## The Gist
-Everything that is modern media is in one way or another a remix of an
-existing work. This is easily apparent in baselines or chords of popular
-music. A memorable message that was presented halfway through the film is
-"Creation Inspires Influence."
+A brief guide on different Free Software licenses that have been
+released by the Free Software Foundation. This guide goes over
+descriptions of how the licenses work and some situations in which
+to choose those licenses.
 
 ## The Good
-* Split into different parts for more digestable viewing.
+* Gives a solid overview of FSF Liceneses
 
-* Abundance of examples to help keep viewers engaged.
+* Gives references for later reading
 
-* Mentions copying and remixes in inventions that aren't necesarily media.
+* Gives simple differences between the licenses
 
 ## The Bad
-* Lots of examples, sometimes to the point where the video felt repetitive.
+* Strong emphasis on GPL
 
-* 
+* Doesn't define things very well
+
+* No real examples were given
+
 ## The Questions
-* At what point did Copyright, Patents, and Intellectual Property become more
-harmful than their origional intentions?
+* Why are companies allowed to have non-compete clauses?
 
-* Is it wrong for companies to lobby for extending copyright and patent law expirations
+* What things should be included in GPLv4?
+
+* Will we see liceneses appear more frequently as time goes
+on or will creation slow down after time?
 
 ## In Review
-
-Everything is a remix gives a great overview of how everything in modern
-culture is in one way a remix or rework of previous works. I like how towards the end
-the video went into how some of the legal aspects of copyright work. I'd give this
-video a 9/10 water bottles.
+I think this was a great source and I'll probably check back on it
+if I ever have questions about the different copyleft licenses.
