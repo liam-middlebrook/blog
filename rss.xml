@@ -8,7 +8,15 @@
     <title>Liam Middlebrook - Game Developer</title>
     <link>http://gearchicken.com/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
-    <pubDate>Fri, 30 Jan 2015 00:00:00 -0500</pubDate>
+    <pubDate>Thu, 05 Feb 2015 00:00:00 -0500</pubDate>
+    <item>
+      <title>Everything is A Remix</title>
+      <link>http://gearchicken.com/blog/2015/02/05/everything-remix.html</link>
+      <description></description>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2015/02/05/everything-remix.html</guid>
+      <dc:date>2015-02-05T00:00:00-05:00</dc:date>
+    </item>
     <item>
       <title>Hello Business and Legal FOSS!</title>
       <link>http://gearchicken.com/blog/2015/01/30/hello-world-2.html</link>
@@ -361,6 +369,6 @@
       <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
       <dc:date>2014-01-30T00:00:00-05:00</dc:date>
     </item>
-    <dc:date>2015-01-30T00:00:00-05:00</dc:date>
+    <dc:date>2015-02-05T00:00:00-05:00</dc:date>
   </channel>
 </rss>
