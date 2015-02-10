@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LitReview: GNU GPL Comprehensive Tutorial and Guide
+title: "LitReview: GNU GPL Comprehensive Tutorial and Guide"
 tags: [BNLFOSS]
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LitReview: Primer for FOSS Projects
+title: "LitReview: Primer for FOSS Projects"
 tags: [BNLFOSS]
 ---
 
