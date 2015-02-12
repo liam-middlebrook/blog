@@ -1,0 +1,40 @@
+---
+layout: post
+title: "LitReview: Triple Threat"
+tags: [BNLFOSS]
+---
+
+## Who
+Apple Inc.
+
+Fedora Project
+
+Python Software Foundation
+
+## What
+iTunes Terms of Service
+
+Fedora Project Contributor Agreement
+
+Python Project Contributor Agreement
+
+## Where
+[Apple TOS](https://www.apple.com/legal/internet-services/itunes/us/terms.html)
+
+[Fedora PCA](https://fedoraproject.org/wiki/Legal:Fedora_Project_Contributor_Agreement)
+
+[Python CA](http://legacy.python.org/psf/contrib/contrib-form/contributor-agreement.pdf)
+
+
+## The Gist
+Different Terms of Service and contributor agreements for iTunes, The Fedora
+Project, and The Python Project. If you are involved in these products
+(whether you are a user or developer for these projects).
+
+## The Good
+
+## The Bad
+
+## The Questions
+
+## In Review
