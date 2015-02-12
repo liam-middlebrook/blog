@@ -32,9 +32,14 @@ Project, and The Python Project. If you are involved in these products
 (whether you are a user or developer for these projects).
 
 ## The Good
+* I'm guarenteed to have a family
+>   iOS 8 and/or OS X Yosemite are required to start and join a Family.
 
 ## The Bad
+* Fedora has a default license agreement
 
 ## The Questions
+* Why would the FPCA have a default license?
 
 ## In Review
+Apple's TOS was a great read, it definitely gets a Energized Steve Ballmer out of Microsoft CEOs.
