@@ -8,7 +8,15 @@
     <title>Liam Middlebrook - Game Developer</title>
     <link>http://gearchicken.com/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
-    <pubDate>Thu, 12 Feb 2015 00:00:00 -0500</pubDate>
+    <pubDate>Tue, 17 Feb 2015 00:00:00 -0500</pubDate>
+    <item>
+      <title>LitReview</title>
+      <link>http://gearchicken.com/blog/2015/02/17/patent.html</link>
+      <description></description>
+      <pubDate>Tue, 17 Feb 2015 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2015/02/17/patent.html</guid>
+      <dc:date>2015-02-17T00:00:00-05:00</dc:date>
+    </item>
     <item>
       <title>LitReview: Triple Threat</title>
       <link>http://gearchicken.com/blog/2015/02/12/tos-apple.html</link>
@@ -401,6 +409,6 @@
       <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
       <dc:date>2014-01-30T00:00:00-05:00</dc:date>
     </item>
-    <dc:date>2015-02-12T00:00:00-05:00</dc:date>
+    <dc:date>2015-02-17T00:00:00-05:00</dc:date>
   </channel>
 </rss>
