@@ -5,17 +5,36 @@ tags: [BNLFOSS]
 ---
 
 ## Who
+Software Freedom Law Center
 
-## What
-
-## Where
+## What / Where
+[Legal Primer for FOSS: Chapter 4](http://bizlegfoss-ritigm.rhcloud.com/static/books/foss-primer.pdf)
 
 ## The Gist
+Patents make developing FOSS Projects more difficult. It's a good idea to get [professional legal
+advice](http://decau.se) from an educated lawyer.
 
 ## The Good
+* Detailed advice for fighting patent claims
+
+* Educates developers on the pros and cons of filing software patents
+
+* Great guides on disaster response
 
 ## The Bad
+* Needs more specific cases
+
+* Everything is situational
+
+* Only touches slightly on patent trolls
 
 ## The Questions
+* How should developers combat patent trolls?
+
+* Which FOSS licenses have patent clauses in them?
+
+* What would a nice example patent be?
 
 ## In Review
+Solid read, definitely would recommend to anyone starting their own FOSS
+project. 9/10
