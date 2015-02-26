@@ -8,7 +8,15 @@
     <title>Liam Middlebrook - Game Developer</title>
     <link>http://gearchicken.com/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
-    <pubDate>Tue, 24 Feb 2015 00:00:00 -0500</pubDate>
+    <pubDate>Thu, 26 Feb 2015 00:00:00 -0500</pubDate>
+    <item>
+      <title>VidReview: Trademarks and Your FOSS Project</title>
+      <link>http://gearchicken.com/blog/2015/02/26/trademarks-vidreview.html</link>
+      <description></description>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 -0500</pubDate>
+      <guid>http://gearchicken.com/blog/2015/02/26/trademarks-vidreview.html</guid>
+      <dc:date>2015-02-26T00:00:00-05:00</dc:date>
+    </item>
     <item>
       <title>LitReview: Common Trademark Issues</title>
       <link>http://gearchicken.com/blog/2015/02/24/trademark.html</link>
@@ -425,6 +433,6 @@
       <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
       <dc:date>2014-01-30T00:00:00-05:00</dc:date>
     </item>
-    <dc:date>2015-02-24T00:00:00-05:00</dc:date>
+    <dc:date>2015-02-26T00:00:00-05:00</dc:date>
   </channel>
 </rss>
