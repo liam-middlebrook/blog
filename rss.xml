@@ -8,431 +8,439 @@
     <title>Liam Middlebrook - Game Developer</title>
     <link>http://gearchicken.com/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
-    <pubDate>Thu, 26 Feb 2015 00:00:00 -0500</pubDate>
+    <pubDate>Sat, 28 Feb 2015 00:00:00 -0600</pubDate>
+    <item>
+      <title>Displaying Your Unity3D Project Using GitHub Pages</title>
+      <link>http://gearchicken.com/blog/2015/02/28/unity-github-webplayer.html</link>
+      <description></description>
+      <pubDate>Sat, 28 Feb 2015 00:00:00 -0600</pubDate>
+      <guid>http://gearchicken.com/blog/2015/02/28/unity-github-webplayer.html</guid>
+      <dc:date>2015-02-28T00:00:00-06:00</dc:date>
+    </item>
     <item>
       <title>VidReview: Trademarks and Your FOSS Project</title>
       <link>http://gearchicken.com/blog/2015/02/26/trademarks-vidreview.html</link>
       <description></description>
-      <pubDate>Thu, 26 Feb 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/02/26/trademarks-vidreview.html</guid>
-      <dc:date>2015-02-26T00:00:00-05:00</dc:date>
+      <dc:date>2015-02-26T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>LitReview: Common Trademark Issues</title>
       <link>http://gearchicken.com/blog/2015/02/24/trademark.html</link>
       <description></description>
-      <pubDate>Tue, 24 Feb 2015 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 24 Feb 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/02/24/trademark.html</guid>
-      <dc:date>2015-02-24T00:00:00-05:00</dc:date>
+      <dc:date>2015-02-24T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>LitReview: Patent Promises</title>
       <link>http://gearchicken.com/blog/2015/02/19/patent-promise.html</link>
       <description></description>
-      <pubDate>Thu, 19 Feb 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 19 Feb 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/02/19/patent-promise.html</guid>
-      <dc:date>2015-02-19T00:00:00-05:00</dc:date>
+      <dc:date>2015-02-19T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>LitReview</title>
       <link>http://gearchicken.com/blog/2015/02/17/patent.html</link>
       <description></description>
-      <pubDate>Tue, 17 Feb 2015 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 17 Feb 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/02/17/patent.html</guid>
-      <dc:date>2015-02-17T00:00:00-05:00</dc:date>
+      <dc:date>2015-02-17T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>LitReview: Triple Threat</title>
       <link>http://gearchicken.com/blog/2015/02/12/tos-apple.html</link>
       <description></description>
-      <pubDate>Thu, 12 Feb 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 12 Feb 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/02/12/tos-apple.html</guid>
-      <dc:date>2015-02-12T00:00:00-05:00</dc:date>
+      <dc:date>2015-02-12T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>LitReview: GNU GPL Comprehensive Tutorial and Guide</title>
       <link>http://gearchicken.com/blog/2015/02/10/gpl-guide.html</link>
       <description></description>
-      <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/02/10/gpl-guide.html</guid>
-      <dc:date>2015-02-10T00:00:00-05:00</dc:date>
+      <dc:date>2015-02-10T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Deploying NodeBB To OpenShift</title>
       <link>http://gearchicken.com/blog/2015/02/09/nodebb-openshift.html</link>
       <description></description>
-      <pubDate>Mon, 09 Feb 2015 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 09 Feb 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/02/09/nodebb-openshift.html</guid>
-      <dc:date>2015-02-09T00:00:00-05:00</dc:date>
+      <dc:date>2015-02-09T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>LitReview: Primer for FOSS Projects</title>
       <link>http://gearchicken.com/blog/2015/02/05/litreview.html</link>
       <description></description>
-      <pubDate>Thu, 05 Feb 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/02/05/litreview.html</guid>
-      <dc:date>2015-02-05T00:00:00-05:00</dc:date>
+      <dc:date>2015-02-05T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Everything is A Remix</title>
       <link>http://gearchicken.com/blog/2015/02/05/everything-remix.html</link>
       <description></description>
-      <pubDate>Thu, 05 Feb 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/02/05/everything-remix.html</guid>
-      <dc:date>2015-02-05T00:00:00-05:00</dc:date>
+      <dc:date>2015-02-05T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Hello Business and Legal FOSS!</title>
       <link>http://gearchicken.com/blog/2015/01/30/hello-world-2.html</link>
       <description></description>
-      <pubDate>Fri, 30 Jan 2015 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 30 Jan 2015 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2015/01/30/hello-world-2.html</guid>
-      <dc:date>2015-01-30T00:00:00-05:00</dc:date>
+      <dc:date>2015-01-30T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>OpenGL Water</title>
       <link>http://gearchicken.com/blog/2014/12/11/water.html</link>
       <description></description>
-      <pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/12/11/water.html</guid>
-      <dc:date>2014-12-11T00:00:00-05:00</dc:date>
+      <dc:date>2014-12-11T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>A Note on Large Team Projects [2]</title>
       <link>http://gearchicken.com/blog/2014/12/11/team-projects-2.html</link>
       <description></description>
-      <pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/12/11/team-projects-2.html</guid>
-      <dc:date>2014-12-11T00:00:00-05:00</dc:date>
+      <dc:date>2014-12-11T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>A Note on Large Team Projects</title>
       <link>http://gearchicken.com/blog/2014/12/11/team-projects.html</link>
       <description></description>
-      <pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 11 Dec 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/12/11/team-projects.html</guid>
-      <dc:date>2014-12-11T00:00:00-05:00</dc:date>
+      <dc:date>2014-12-11T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>24 Days of Pull Requests | BreakOuttaHere</title>
       <link>http://gearchicken.com/blog/2014/12/02/pulls-01-BreakOuttaHere.html</link>
       <description></description>
-      <pubDate>Tue, 02 Dec 2014 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 02 Dec 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/12/02/pulls-01-BreakOuttaHere.html</guid>
-      <dc:date>2014-12-02T00:00:00-05:00</dc:date>
+      <dc:date>2014-12-02T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>24 Days of Pull Requests | Thrust</title>
       <link>http://gearchicken.com/blog/2014/12/01/pulls-01-thrust.html</link>
       <description></description>
-      <pubDate>Mon, 01 Dec 2014 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/12/01/pulls-01-thrust.html</guid>
-      <dc:date>2014-12-01T00:00:00-05:00</dc:date>
+      <dc:date>2014-12-01T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>RocPy: Interfacing C with Python</title>
       <link>http://gearchicken.com/blog/2014/11/25/rocpy.html</link>
       <description></description>
-      <pubDate>Tue, 25 Nov 2014 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 25 Nov 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/11/25/rocpy.html</guid>
-      <dc:date>2014-11-25T00:00:00-05:00</dc:date>
+      <dc:date>2014-11-25T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>PawPrints Adlibs</title>
       <link>http://gearchicken.com/blog/2014/11/20/pawprints-adlibs.html</link>
       <description></description>
-      <pubDate>Thu, 20 Nov 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 20 Nov 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/11/20/pawprints-adlibs.html</guid>
-      <dc:date>2014-11-20T00:00:00-05:00</dc:date>
+      <dc:date>2014-11-20T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>OSI Licenses Full: A FOSS Project Bootstrapping Tool</title>
       <link>http://gearchicken.com/blog/2014/11/11/osi-licenses-full.html</link>
       <description></description>
-      <pubDate>Tue, 11 Nov 2014 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 11 Nov 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/11/11/osi-licenses-full.html</guid>
-      <dc:date>2014-11-11T00:00:00-05:00</dc:date>
+      <dc:date>2014-11-11T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Advanced FOSS Hackprop 2</title>
       <link>http://gearchicken.com/blog/2014/11/06/hackprop2.html</link>
       <description></description>
-      <pubDate>Thu, 06 Nov 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/11/06/hackprop2.html</guid>
-      <dc:date>2014-11-06T00:00:00-05:00</dc:date>
+      <dc:date>2014-11-06T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Buzzer As A Service: Postmortem</title>
       <link>http://gearchicken.com/blog/2014/11/02/buzzer-postmortem.html</link>
       <description></description>
-      <pubDate>Sun, 02 Nov 2014 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/11/02/buzzer-postmortem.html</guid>
-      <dc:date>2014-11-02T00:00:00-04:00</dc:date>
+      <dc:date>2014-11-02T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Updating Educational Resources: The Nature of Code</title>
       <link>http://gearchicken.com/blog/2014/10/24/nature-of-code.html</link>
       <description></description>
-      <pubDate>Fri, 24 Oct 2014 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 24 Oct 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/10/24/nature-of-code.html</guid>
-      <dc:date>2014-10-24T00:00:00-04:00</dc:date>
+      <dc:date>2014-10-24T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>RocPy: Other Languages With Python</title>
       <link>http://gearchicken.com/blog/2014/10/20/rocpy.html</link>
       <description></description>
-      <pubDate>Mon, 20 Oct 2014 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 Oct 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/10/20/rocpy.html</guid>
-      <dc:date>2014-10-20T00:00:00-04:00</dc:date>
+      <dc:date>2014-10-20T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Processing Shader Compilation Error Fix</title>
       <link>http://gearchicken.com/blog/2014/10/15/processing-shader-error.html</link>
       <description></description>
-      <pubDate>Wed, 15 Oct 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/10/15/processing-shader-error.html</guid>
-      <dc:date>2014-10-15T00:00:00-04:00</dc:date>
+      <dc:date>2014-10-15T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Google in Class Talk</title>
       <link>http://gearchicken.com/blog/2014/10/07/google-visit-advfoss.html</link>
       <description></description>
-      <pubDate>Tue, 07 Oct 2014 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 07 Oct 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/10/07/google-visit-advfoss.html</guid>
-      <dc:date>2014-10-07T00:00:00-04:00</dc:date>
+      <dc:date>2014-10-07T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Decause, WAT!?</title>
       <link>http://gearchicken.com/blog/2014/10/01/decause-wat.html</link>
       <description></description>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/10/01/decause-wat.html</guid>
-      <dc:date>2014-10-01T00:00:00-04:00</dc:date>
+      <dc:date>2014-10-01T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Buzzer as a Service Project Proposal</title>
       <link>http://gearchicken.com/blog/2014/10/01/buzzer-as-a-service.html</link>
       <description></description>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/10/01/buzzer-as-a-service.html</guid>
-      <dc:date>2014-10-01T00:00:00-04:00</dc:date>
+      <dc:date>2014-10-01T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Advanced FOSS Hackprop 1</title>
       <link>http://gearchicken.com/blog/2014/09/30/hackprop1.html</link>
       <description></description>
-      <pubDate>Tue, 30 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 30 Sep 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/09/30/hackprop1.html</guid>
-      <dc:date>2014-09-30T00:00:00-04:00</dc:date>
+      <dc:date>2014-09-30T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Arduino Based Dancepad Controller: Postmortem</title>
       <link>http://gearchicken.com/blog/2014/09/29/dancepad-arduino-postmortem.html</link>
       <description></description>
-      <pubDate>Mon, 29 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 29 Sep 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/09/29/dancepad-arduino-postmortem.html</guid>
-      <dc:date>2014-09-29T00:00:00-04:00</dc:date>
+      <dc:date>2014-09-29T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>RocPY September 2014</title>
       <link>http://gearchicken.com/blog/2014/09/16/rocpy.html</link>
       <description></description>
-      <pubDate>Tue, 16 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/09/16/rocpy.html</guid>
-      <dc:date>2014-09-16T00:00:00-04:00</dc:date>
+      <dc:date>2014-09-16T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Advanced FOSS Community Contrib 0: vogl</title>
       <link>http://gearchicken.com/blog/2014/09/04/vogl-cmake.html</link>
       <description></description>
-      <pubDate>Thu, 04 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 04 Sep 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/09/04/vogl-cmake.html</guid>
-      <dc:date>2014-09-04T00:00:00-04:00</dc:date>
+      <dc:date>2014-09-04T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Advanced FOSS Hack Proposal 0</title>
       <link>http://gearchicken.com/blog/2014/09/02/14-hackprop0.html</link>
       <description></description>
-      <pubDate>Tue, 02 Sep 2014 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/09/02/14-hackprop0.html</guid>
-      <dc:date>2014-09-02T00:00:00-04:00</dc:date>
+      <dc:date>2014-09-02T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Force Halt/Reboot on GNU/Linux Using /proc/</title>
       <link>http://gearchicken.com/blog/2014/08/17/force-rebot-linux.html</link>
       <description></description>
-      <pubDate>Sun, 17 Aug 2014 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 17 Aug 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/08/17/force-rebot-linux.html</guid>
-      <dc:date>2014-08-17T00:00:00-04:00</dc:date>
+      <dc:date>2014-08-17T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Working on the HFOSS Site</title>
       <link>http://gearchicken.com/blog/2014/08/12/working-hfoss-site.html</link>
       <description></description>
-      <pubDate>Tue, 12 Aug 2014 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 12 Aug 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/08/12/working-hfoss-site.html</guid>
-      <dc:date>2014-08-12T00:00:00-04:00</dc:date>
+      <dc:date>2014-08-12T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>C++11 Support with Travis-CI using g++</title>
       <link>http://gearchicken.com/blog/2014/07/02/c11-support-with-travis-ci-using-g.html</link>
       <description></description>
-      <pubDate>Wed, 02 Jul 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/07/02/c11-support-with-travis-ci-using-g.html</guid>
-      <dc:date>2014-07-02T00:00:00-04:00</dc:date>
+      <dc:date>2014-07-02T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Rhetological Fallcies Quiz</title>
       <link>http://gearchicken.com/blog/2014/05/14/rhetological-fallcies-quiz.html</link>
       <description></description>
-      <pubDate>Wed, 14 May 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 14 May 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/05/14/rhetological-fallcies-quiz.html</guid>
-      <dc:date>2014-05-14T00:00:00-04:00</dc:date>
+      <dc:date>2014-05-14T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Litreview 2: Rhetological Fallacies</title>
       <link>http://gearchicken.com/blog/2014/05/14/litreview-2-rhetological-fallacies.html</link>
       <description></description>
-      <pubDate>Wed, 14 May 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 14 May 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/05/14/litreview-2-rhetological-fallacies.html</guid>
-      <dc:date>2014-05-14T00:00:00-04:00</dc:date>
+      <dc:date>2014-05-14T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>BarCamp - An Unconference</title>
       <link>http://gearchicken.com/blog/2014/05/12/barcamp-an-unconference.html</link>
       <description></description>
-      <pubDate>Mon, 12 May 2014 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 12 May 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/05/12/barcamp-an-unconference.html</guid>
-      <dc:date>2014-05-12T00:00:00-04:00</dc:date>
+      <dc:date>2014-05-12T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Math Island: A Design Concept</title>
       <link>http://gearchicken.com/blog/2014/05/07/math-island-a-design-concept.html</link>
       <description></description>
-      <pubDate>Wed, 07 May 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 07 May 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/05/07/math-island-a-design-concept.html</guid>
-      <dc:date>2014-05-07T00:00:00-04:00</dc:date>
+      <dc:date>2014-05-07T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>HFOSS Final Project Team Proposal</title>
       <link>http://gearchicken.com/blog/2014/04/16/hfoss-final-project-team-proposal.html</link>
       <description></description>
-      <pubDate>Wed, 16 Apr 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 16 Apr 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/04/16/hfoss-final-project-team-proposal.html</guid>
-      <dc:date>2014-04-16T00:00:00-04:00</dc:date>
+      <dc:date>2014-04-16T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>RocPy - Using collections.defaultdict as a Tree</title>
       <link>http://gearchicken.com/blog/2014/04/14/rocpy-using-collections-defaultdict-as-a-tree.html</link>
       <description></description>
-      <pubDate>Mon, 14 Apr 2014 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 14 Apr 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/04/14/rocpy-using-collections-defaultdict-as-a-tree.html</guid>
-      <dc:date>2014-04-14T00:00:00-04:00</dc:date>
+      <dc:date>2014-04-14T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Curriculum Review - 4th Grade Math for MA and NY</title>
       <link>http://gearchicken.com/blog/2014/04/09/curriculum-review-4th-grade-math-for-ma-and-ny.html</link>
       <description></description>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/04/09/curriculum-review-4th-grade-math-for-ma-and-ny.html</guid>
-      <dc:date>2014-04-09T00:00:00-04:00</dc:date>
+      <dc:date>2014-04-09T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Allowing SteamOS to Install Packages From Debian Wheezy With Aptitude</title>
       <link>http://gearchicken.com/blog/2014/03/30/allowing-steamos-to-install-packages-from-debian-wheezy-with-aptitude.html</link>
       <description></description>
-      <pubDate>Sun, 30 Mar 2014 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 30 Mar 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/03/30/allowing-steamos-to-install-packages-from-debian-wheezy-with-aptitude.html</guid>
-      <dc:date>2014-03-30T00:00:00-04:00</dc:date>
+      <dc:date>2014-03-30T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Community Architecture Analysis: MonoGame</title>
       <link>http://gearchicken.com/blog/2014/03/19/community-architecture-analysis-monogame.html</link>
       <description></description>
-      <pubDate>Wed, 19 Mar 2014 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 19 Mar 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/03/19/community-architecture-analysis-monogame.html</guid>
-      <dc:date>2014-03-19T00:00:00-04:00</dc:date>
+      <dc:date>2014-03-19T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Making Robots Drive</title>
       <link>http://gearchicken.com/blog/2014/03/17/making-robots-drive.html</link>
       <description></description>
-      <pubDate>Mon, 17 Mar 2014 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/03/17/making-robots-drive.html</guid>
-      <dc:date>2014-03-17T00:00:00-04:00</dc:date>
+      <dc:date>2014-03-17T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>HFOSS - Commarch Team Proposal</title>
       <link>http://gearchicken.com/blog/2014/03/13/hfoss-comarch-team-proposal.html</link>
       <description></description>
-      <pubDate>Thu, 13 Mar 2014 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 13 Mar 2014 00:00:00 -0500</pubDate>
       <guid>http://gearchicken.com/blog/2014/03/13/hfoss-comarch-team-proposal.html</guid>
-      <dc:date>2014-03-13T00:00:00-04:00</dc:date>
+      <dc:date>2014-03-13T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>The History of MINX (Part 1)</title>
       <link>http://gearchicken.com/blog/2014/02/26/the-history-of-minx-part-1.html</link>
       <description></description>
-      <pubDate>Wed, 26 Feb 2014 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 26 Feb 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/02/26/the-history-of-minx-part-1.html</guid>
-      <dc:date>2014-02-26T00:00:00-05:00</dc:date>
+      <dc:date>2014-02-26T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Rochester Civic App Challenge Kickoff Hackathon</title>
       <link>http://gearchicken.com/blog/2014/02/24/rochester-civic-app-challenge-kickoff-hackathon.html</link>
       <description></description>
-      <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/02/24/rochester-civic-app-challenge-kickoff-hackathon.html</guid>
-      <dc:date>2014-02-24T00:00:00-05:00</dc:date>
+      <dc:date>2014-02-24T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Rochester AT&amp;T Civic App Challenge Press Conference</title>
       <link>http://gearchicken.com/blog/2014/02/24/rochester-att-civic-app-challenge-press-conference.html</link>
       <description></description>
-      <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/02/24/rochester-att-civic-app-challenge-press-conference.html</guid>
-      <dc:date>2014-02-24T00:00:00-05:00</dc:date>
+      <dc:date>2014-02-24T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>HW: Bugfix</title>
       <link>http://gearchicken.com/blog/2014/02/24/hw-bugfix.html</link>
       <description></description>
-      <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/02/24/hw-bugfix.html</guid>
-      <dc:date>2014-02-24T00:00:00-05:00</dc:date>
+      <dc:date>2014-02-24T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>HFOSS - Quiz 1</title>
       <link>http://gearchicken.com/blog/2014/02/12/hfoss-quiz-1.html</link>
       <description></description>
-      <pubDate>Wed, 12 Feb 2014 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 12 Feb 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/02/12/hfoss-quiz-1.html</guid>
-      <dc:date>2014-02-12T00:00:00-05:00</dc:date>
+      <dc:date>2014-02-12T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>LitReview Weber - The Success of Open Source Chapter 3: What Is Open Source and How Does It Work?</title>
       <link>http://gearchicken.com/blog/2014/02/10/litreview-weber-the-success-of-open-source-chapter-3-what-is-open-source-and-how-does-it-work.html</link>
       <description></description>
-      <pubDate>Mon, 10 Feb 2014 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 10 Feb 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/02/10/litreview-weber-the-success-of-open-source-chapter-3-what-is-open-source-and-how-does-it-work.html</guid>
-      <dc:date>2014-02-10T00:00:00-05:00</dc:date>
+      <dc:date>2014-02-10T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Russian Chicken Inspector</title>
       <link>http://gearchicken.com/blog/2014/02/04/russian-chicken-inspector.html</link>
       <description></description>
-      <pubDate>Tue, 04 Feb 2014 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 04 Feb 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/02/04/russian-chicken-inspector.html</guid>
-      <dc:date>2014-02-04T00:00:00-05:00</dc:date>
+      <dc:date>2014-02-04T00:00:00-06:00</dc:date>
     </item>
     <item>
       <title>Hello World!</title>
       <link>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</link>
       <description></description>
-      <pubDate>Thu, 30 Jan 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 30 Jan 2014 00:00:00 -0600</pubDate>
       <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
-      <dc:date>2014-01-30T00:00:00-05:00</dc:date>
+      <dc:date>2014-01-30T00:00:00-06:00</dc:date>
     </item>
-    <dc:date>2015-02-26T00:00:00-05:00</dc:date>
+    <dc:date>2015-02-28T00:00:00-06:00</dc:date>
   </channel>
 </rss>
