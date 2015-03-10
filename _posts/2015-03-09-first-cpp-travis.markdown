@@ -9,7 +9,7 @@ repositories. It will cover getting build status from TravisCI, but it will
 not go into unit testing. If you want to explore setting up Unit Tests for
 your repository I would recommend looking into CUnit.
 
-1. Create a Makefile for building your robot code.
+* Create a Makefile for building your robot code.
 
 Since TravisCI uses Ubuntu as an OS we'll need to create a Makefile for
 actually building the robot code. I based my Makefile off of the file that
@@ -51,7 +51,7 @@ all: $(OBJECTS)
     $(CXX) $(CPPFLAGS) $(OBJECTS) $(LFLAGS) -o bin/FRCUserProgram
 ```
 
-2. Create a .travis.yml file for TravisCI Configuration
+* Create a .travis.yml file for TravisCI Configuration
 
 This file will tell TravisCI what it needs to do in order to properly
 test and build your code. We're going to set the language to be CPP
@@ -76,7 +76,7 @@ script:
     - make
 ```
 
-3. Enable the TravisCI GitHub Webhook
+* Enable the TravisCI GitHub Webhook
 
 Sign into TravisCI and you'll see a list of all the repositories that
 you have administrator access to. All you need to do is flip the switch
