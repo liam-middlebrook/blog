@@ -27,7 +27,24 @@
 <div class="post">
 <h1>Setting your TravisCI enviornment variables</h1>
 
+<p>Set the following enviornment variables in your TravisCI settings for your
+repository:</p>
+
+<blockquote>
+<p>ARTIFACTS<em>KEY=(AWS access key id)
+  ARTIFACTS</em>SECRET=(AWS secret access key)
+  ARTIFACTS_BUCKET=(S3 bucket name)</p>
+</blockquote>
+
 <h1>Setting your TravisCI config</h1>
+
+<p>addons:
+  artifacts:
+    paths:</p>
+
+<h1>- filename of file to upload</h1>
+
+<h1>- you can also do commands like $(ls logs/*.log | tr &quot;\n&quot; &quot;:&quot;)</h1>
 
 </div>
 
