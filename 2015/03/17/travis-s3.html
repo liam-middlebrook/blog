@@ -29,23 +29,19 @@
 
 <p>Set the following enviornment variables in your TravisCI settings for your
 repository:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">ARTIFACTS_KEY=(AWS access key id)
 
-<blockquote>
-<p>ARTIFACTS<em>KEY=(AWS access key id)
-  ARTIFACTS</em>SECRET=(AWS secret access key)
-  ARTIFACTS_BUCKET=(S3 bucket name)</p>
-</blockquote>
+ARTIFACTS_SECRET=(AWS secret access key)
 
+ARTIFACTS_BUCKET=(S3 bucket name)
+</code></pre></div>
 <h1>Setting your TravisCI config</h1>
-
-<p>addons:
+<div class="highlight"><pre><code class="language-text" data-lang="text">addons:
   artifacts:
-    paths:</p>
-
-<h1>- filename of file to upload</h1>
-
-<h1>- you can also do commands like $(ls logs/*.log | tr &quot;\n&quot; &quot;:&quot;)</h1>
-
+    paths:
+#   - filename of file to upload 
+#   - you can also do commands like $(ls logs/*.log | tr &quot;\n&quot; &quot;:&quot;)
+</code></pre></div>
 </div>
 
 
