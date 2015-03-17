@@ -9,15 +9,20 @@ tags: [Community]
 Set the following enviornment variables in your TravisCI settings for your
 repository:
 
->   ARTIFACTS_KEY=(AWS access key id)
->   ARTIFACTS_SECRET=(AWS secret access key)
->   ARTIFACTS_BUCKET=(S3 bucket name)
+```
+ARTIFACTS_KEY=(AWS access key id)
 
+ARTIFACTS_SECRET=(AWS secret access key)
+
+ARTIFACTS_BUCKET=(S3 bucket name)
+```
 
 # Setting your TravisCI config
 
+```
 addons:
   artifacts:
     paths:
 #   - filename of file to upload 
 #   - you can also do commands like $(ls logs/*.log | tr "\n" ":")
+```
