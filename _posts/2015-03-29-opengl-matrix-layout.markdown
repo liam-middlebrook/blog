@@ -29,8 +29,8 @@ Sadly OpenGL really pushes users to use Column-Major Order. This is evident by
 the fact that section 4.1.6 of the [GLSL Specification](https://www.opengl.org/registry/doc/GLSLangSpec.4.40.pdf)
 states the following.
 
-    Initialization of matrix values is done with constructors (described in section 5.4 “Constructors” ) in
-    column-major order
+    Initialization of matrix values is done with constructors (described in section 5.4
+    “Constructors” ) in column-major order
 
 To me personally thinking that the matrices are layed out in Column-Major
 Order is un-natural. Here's how the GLSL Specification looks at the matrices
