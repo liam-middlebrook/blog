@@ -8,7 +8,39 @@
     <title>Liam Middlebrook - Game Developer</title>
     <link>http://gearchicken.com/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
-    <pubDate>Sun, 29 Mar 2015 00:00:00 -0400</pubDate>
+    <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
+    <item>
+      <title>Bizlegfoss Profile 1: Linux Foundation</title>
+      <link>http://gearchicken.com/blog/2015/03/30/profile-1.html</link>
+      <description></description>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/03/30/profile-1.html</guid>
+      <dc:date>2015-03-30T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Bizlegfoss Profile 0: GitHub</title>
+      <link>http://gearchicken.com/blog/2015/03/30/profile-0.html</link>
+      <description></description>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/03/30/profile-0.html</guid>
+      <dc:date>2015-03-30T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Bizlegfoss Profile Presentation 1: Linux Foundation</title>
+      <link>http://gearchicken.com/blog/2015/03/30/preso-1.html</link>
+      <description></description>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/03/30/preso-1.html</guid>
+      <dc:date>2015-03-30T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Bizlegfoss Profile Presentation 0: GitHub</title>
+      <link>http://gearchicken.com/blog/2015/03/30/preso-0.html</link>
+      <description></description>
+      <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/03/30/preso-0.html</guid>
+      <dc:date>2015-03-30T00:00:00-04:00</dc:date>
+    </item>
     <item>
       <title>OpenGL Matrix Memory Layout</title>
       <link>http://gearchicken.com/blog/2015/03/29/opengl-matrix-layout.html</link>
@@ -537,6 +569,6 @@
       <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
       <dc:date>2014-01-30T00:00:00-05:00</dc:date>
     </item>
-    <dc:date>2015-03-29T00:00:00-04:00</dc:date>
+    <dc:date>2015-03-30T00:00:00-04:00</dc:date>
   </channel>
 </rss>
