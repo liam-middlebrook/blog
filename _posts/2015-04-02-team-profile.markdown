@@ -5,12 +5,10 @@ tags: [BNLFoss]
 ---
 > List your other team members below
 
-| Name             | Handle     | Email                       |
-|------------------|------------|-----------------------------|
-| Matt Soucy       | msoucy     | <msoucy@csh.rit.edu>        |
-| Liam Middlebrook | loothelion | <liammiddlebrook@gmail.com> |
-| Julien Eid       | jeid64     | <jeid@csh.rit.edu>          |
-| Alex Mack        | Mackster   | <amm4108@gmail.com>         |
+* Matt Soucy       | msoucy     | <msoucy@csh.rit.edu>        |
+* Liam Middlebrook | loothelion | <liammiddlebrook@gmail.com> |
+* Julien Eid       | jeid64     | <jeid@csh.rit.edu>          |
+* Alex Mack        | Mackster   | <amm4108@gmail.com>         |
 
 
 > Which Entity did your team choose to profile?
