@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Bizlegfoss Profile Presentation 2: BeagleBone Black"
+tags: [BNLFOSS]
+---
+
+This needs to be a post because of how [ofCourse](https://github.com/ryansb/ofcourse)
+currently parses blogs.
+
+[Link to presentation](http://msoucy.github.io/bizleg-profiles/profile2/#/)
