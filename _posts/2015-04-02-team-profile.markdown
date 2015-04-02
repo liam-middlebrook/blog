@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Project Profile Team Profile 3: Hardware Product"
+title: "Project Profile Team Profile 3: CrowdSourcing"
 tags: [BNLFoss]
 ---
 ## List your other team members below
