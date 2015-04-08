@@ -45,6 +45,6 @@ that are created.
 Weird Column-Major Memory Layout (Row-Major in Disguise)
 
 There's not really a right answer to what format to use. As stated above I
-prefer to use Row-Major Ordering for my Matrices. In the end use whatever is
-more intuitive to you, but please make sure to document how things are
-layed-out in memory.
+prefer to use Row-Major Ordering for [my Matrices](https://github.com/liam-middlebrook/nautical/tree/master/include/math/matrix4.h).
+In the end use whatever is more intuitive to you, but please make sure to
+document how things are layed-out in memory.
