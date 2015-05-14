@@ -8,7 +8,55 @@
     <title>Liam Middlebrook - Game Developer</title>
     <link>http://gearchicken.com/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
-    <pubDate>Tue, 05 May 2015 00:00:00 -0400</pubDate>
+    <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
+    <item>
+      <title>Bizlegfoss Profile 4: SugarLabs/OLPC</title>
+      <link>http://gearchicken.com/blog/2015/05/13/profile4.html</link>
+      <description></description>
+      <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/05/13/profile4.html</guid>
+      <dc:date>2015-05-13T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Bizlegfoss Profile 3: BountySource</title>
+      <link>http://gearchicken.com/blog/2015/05/13/profile3.html</link>
+      <description></description>
+      <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/05/13/profile3.html</guid>
+      <dc:date>2015-05-13T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Bizlegfoss Profile 2: BeagleBone</title>
+      <link>http://gearchicken.com/blog/2015/05/13/profile2.html</link>
+      <description></description>
+      <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/05/13/profile2.html</guid>
+      <dc:date>2015-05-13T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Bizlegfoss Profile Presentation 4: Sugar/OLPC</title>
+      <link>http://gearchicken.com/blog/2015/05/13/preso4.html</link>
+      <description></description>
+      <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/05/13/preso4.html</guid>
+      <dc:date>2015-05-13T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Bizlegfoss Profile Presentation 3: BountySource</title>
+      <link>http://gearchicken.com/blog/2015/05/13/preso3.html</link>
+      <description></description>
+      <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/05/13/preso3.html</guid>
+      <dc:date>2015-05-13T00:00:00-04:00</dc:date>
+    </item>
+    <item>
+      <title>Bizlegfoss Profile Presentation 2: BeagleBone</title>
+      <link>http://gearchicken.com/blog/2015/05/13/preso2.html</link>
+      <description></description>
+      <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
+      <guid>http://gearchicken.com/blog/2015/05/13/preso2.html</guid>
+      <dc:date>2015-05-13T00:00:00-04:00</dc:date>
+    </item>
     <item>
       <title>Questions</title>
       <link>http://gearchicken.com/blog/2015/05/05/questions.html</link>
@@ -633,6 +681,6 @@
       <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
       <dc:date>2014-01-30T00:00:00-05:00</dc:date>
     </item>
-    <dc:date>2015-05-05T00:00:00-04:00</dc:date>
+    <dc:date>2015-05-13T00:00:00-04:00</dc:date>
   </channel>
 </rss>
