@@ -56,7 +56,7 @@ module Jekyll
             item.link = link
             item.description = ''
             item.updated = post.date
-            item.summary = post.content
+            item.summary = post.content | strip_html
           end
         end
       end
