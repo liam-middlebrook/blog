@@ -6,74 +6,74 @@
   xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
   <channel>
     <title>Liam Middlebrook - Game Developer</title>
-    <link>http://gearchicken.com/blog</link>
+    <link>http://liam-middlebrook.github.io/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
     <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
     <item>
       <title>Bizlegfoss Profile 4: SugarLabs/OLPC</title>
-      <link>http://gearchicken.com/blog/2015/05/13/profile4.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/05/13/profile4.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/05/13/profile4.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/05/13/profile4.html</guid>
       <dc:date>2015-05-13T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Profile 3: BountySource</title>
-      <link>http://gearchicken.com/blog/2015/05/13/profile3.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/05/13/profile3.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/05/13/profile3.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/05/13/profile3.html</guid>
       <dc:date>2015-05-13T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Profile Presentation 4: Sugar/OLPC</title>
-      <link>http://gearchicken.com/blog/2015/05/13/preso4.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/05/13/preso4.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/05/13/preso4.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/05/13/preso4.html</guid>
       <dc:date>2015-05-13T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Profile Presentation 3: BountySource</title>
-      <link>http://gearchicken.com/blog/2015/05/13/preso3.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/05/13/preso3.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/05/13/preso3.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/05/13/preso3.html</guid>
       <dc:date>2015-05-13T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Final Questions</title>
-      <link>http://gearchicken.com/blog/2015/05/13/final-questions.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/05/13/final-questions.html</link>
       <description>&lt;![CDATA[
 When does code you create become copyrighted?
 
 ]]&gt;</description>
       <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/05/13/final-questions.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/05/13/final-questions.html</guid>
       <dc:date>2015-05-13T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Questions</title>
-      <link>http://gearchicken.com/blog/2015/05/05/questions.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/05/05/questions.html</link>
       <description>&lt;![CDATA[
 License Spectrum fill in the blank
 
 ]]&gt;</description>
       <pubDate>Tue, 05 May 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/05/05/questions.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/05/05/questions.html</guid>
       <dc:date>2015-05-05T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Integrating Spotify With Javascript</title>
-      <link>http://gearchicken.com/blog/2015/04/26/spotify-js.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/04/26/spotify-js.html</link>
       <description>&lt;![CDATA[In my Research Studio class I&amp;#39;m currently working on a project that creates
 audio visualizations using Javascript and three.js. So
 far we&amp;#39;ve been using APIs like sonicAPI in order
@@ -82,53 +82,53 @@ the HTML5 WebAudio API, but either way the user has the duty to provide their
 own music for visualization.
 ]]&gt;</description>
       <pubDate>Sun, 26 Apr 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/04/26/spotify-js.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/04/26/spotify-js.html</guid>
       <dc:date>2015-04-26T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Reading My Own Code: Vim Colorschemes</title>
-      <link>http://gearchicken.com/blog/2015/04/08/vim-colors.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/04/08/vim-colors.html</link>
       <description>&lt;![CDATA[Today I finally decided that it would be a good idea to be able to read
 what I write. I&amp;#39;ve been experimenting back and forth with different Vim
 colorschemes and terminal color settings for the past few months. I finally
 have found what I consider the most pleasing color scheme.
 ]]&gt;</description>
       <pubDate>Wed, 08 Apr 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/04/08/vim-colors.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/04/08/vim-colors.html</guid>
       <dc:date>2015-04-08T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Project Profile Team Profile 3: CrowdSourcing</title>
-      <link>http://gearchicken.com/blog/2015/04/02/team-profile.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/04/02/team-profile.html</link>
       <description>&lt;![CDATA[List your other team members below
 ]]&gt;</description>
       <pubDate>Thu, 02 Apr 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/04/02/team-profile.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/04/02/team-profile.html</guid>
       <dc:date>2015-04-02T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Profile 2: BeagleBone Black</title>
-      <link>http://gearchicken.com/blog/2015/04/02/profile-2.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/04/02/profile-2.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Thu, 02 Apr 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/04/02/profile-2.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/04/02/profile-2.html</guid>
       <dc:date>2015-04-02T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Profile Presentation 2: BeagleBone Black</title>
-      <link>http://gearchicken.com/blog/2015/04/02/preso-2.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/04/02/preso-2.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Thu, 02 Apr 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/04/02/preso-2.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/04/02/preso-2.html</guid>
       <dc:date>2015-04-02T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Project Profile Team Profile 2: Hardware Product</title>
-      <link>http://gearchicken.com/blog/2015/04/01/team-profile.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/04/01/team-profile.html</link>
       <description>&lt;![CDATA[Team Members
 
 
@@ -136,12 +136,12 @@ Matt Soucy msoucy@csh.rit.edu
 
 ]]&gt;</description>
       <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/04/01/team-profile.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/04/01/team-profile.html</guid>
       <dc:date>2015-04-01T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>LitReview: Value of Open Hardware</title>
-      <link>http://gearchicken.com/blog/2015/03/30/value-open-hardware.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/30/value-open-hardware.html</link>
       <description>&lt;![CDATA[Who
 
 
@@ -149,62 +149,62 @@ Joshua M. Pearce
 
 ]]&gt;</description>
       <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/30/value-open-hardware.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/30/value-open-hardware.html</guid>
       <dc:date>2015-03-30T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Profile 1: Linux Foundation</title>
-      <link>http://gearchicken.com/blog/2015/03/30/profile-1.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/30/profile-1.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/30/profile-1.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/30/profile-1.html</guid>
       <dc:date>2015-03-30T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Profile 0: GitHub</title>
-      <link>http://gearchicken.com/blog/2015/03/30/profile-0.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/30/profile-0.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/30/profile-0.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/30/profile-0.html</guid>
       <dc:date>2015-03-30T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Profile Presentation 1: Linux Foundation</title>
-      <link>http://gearchicken.com/blog/2015/03/30/preso-1.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/30/preso-1.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/30/preso-1.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/30/preso-1.html</guid>
       <dc:date>2015-03-30T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Bizlegfoss Profile Presentation 0: GitHub</title>
-      <link>http://gearchicken.com/blog/2015/03/30/preso-0.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/30/preso-0.html</link>
       <description>&lt;![CDATA[This needs to be a post because of how ofCourse
 currently parses blogs.
 ]]&gt;</description>
       <pubDate>Mon, 30 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/30/preso-0.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/30/preso-0.html</guid>
       <dc:date>2015-03-30T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>OpenGL Matrix Memory Layout</title>
-      <link>http://gearchicken.com/blog/2015/03/29/opengl-matrix-layout.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/29/opengl-matrix-layout.html</link>
       <description>&lt;![CDATA[There&amp;#39;s a large confusion in the Graphics Programming Community about the
 layout of Matrices in memory using OpenGL.
 ]]&gt;</description>
       <pubDate>Sun, 29 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/29/opengl-matrix-layout.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/29/opengl-matrix-layout.html</guid>
       <dc:date>2015-03-29T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>LitReview: Market Power and Regulation</title>
-      <link>http://gearchicken.com/blog/2015/03/18/nobel-economics.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/18/nobel-economics.html</link>
       <description>&lt;![CDATA[Who
 
 
@@ -212,42 +212,42 @@ Jean Tirole
 
 ]]&gt;</description>
       <pubDate>Wed, 18 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/18/nobel-economics.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/18/nobel-economics.html</guid>
       <dc:date>2015-03-18T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>TravisCI Uploading Artifacts to S3</title>
-      <link>http://gearchicken.com/blog/2015/03/17/travis-s3.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/17/travis-s3.html</link>
       <description>&lt;![CDATA[Setting your TravisCI enviornment variables
 ]]&gt;</description>
       <pubDate>Tue, 17 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/17/travis-s3.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/17/travis-s3.html</guid>
       <dc:date>2015-03-17T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Sugar Quickstart</title>
-      <link>http://gearchicken.com/blog/2015/03/17/sugar-quickstart.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/17/sugar-quickstart.html</link>
       <description>&lt;![CDATA[Create new awesome PyGame projects for the OLPC XO&amp;#39;s
 use sugar_quickstart
 ]]&gt;</description>
       <pubDate>Tue, 17 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/17/sugar-quickstart.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/17/sugar-quickstart.html</guid>
       <dc:date>2015-03-17T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Git By a Lion</title>
-      <link>http://gearchicken.com/blog/2015/03/17/git_by_a_lion.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/17/git_by_a_lion.html</link>
       <description>&lt;![CDATA[Last year when I did my Commarch Presentation for my Humanitarian Free and
 Open Source Software class. One of the tools used in that presentation was
 gitbya_bus.
 ]]&gt;</description>
       <pubDate>Tue, 17 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/17/git_by_a_lion.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/17/git_by_a_lion.html</guid>
       <dc:date>2015-03-17T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Project Profile Team Profile 2: Organization</title>
-      <link>http://gearchicken.com/blog/2015/03/12/team-profile.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/12/team-profile.html</link>
       <description>&lt;![CDATA[Team Members
 
 
@@ -255,12 +255,12 @@ Matt Soucy msoucy@csh.rit.edu
 
 ]]&gt;</description>
       <pubDate>Thu, 12 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/12/team-profile.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/12/team-profile.html</guid>
       <dc:date>2015-03-12T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Project Profile Team Profile: Organization</title>
-      <link>http://gearchicken.com/blog/2015/03/10/team-profile.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/10/team-profile.html</link>
       <description>&lt;![CDATA[Team Members
 
 
@@ -268,12 +268,12 @@ Matt Soucy msoucy@csh.rit.edu
 
 ]]&gt;</description>
       <pubDate>Tue, 10 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/10/team-profile.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/10/team-profile.html</guid>
       <dc:date>2015-03-10T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>LitReview: Common Organizational Issues</title>
-      <link>http://gearchicken.com/blog/2015/03/10/organizational-issues.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/10/organizational-issues.html</link>
       <description>&lt;![CDATA[Who
 
 
@@ -281,12 +281,12 @@ Richard Fontana
 
 ]]&gt;</description>
       <pubDate>Tue, 10 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/10/organizational-issues.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/10/organizational-issues.html</guid>
       <dc:date>2015-03-10T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>LitReview: GPL Guide Chapter 12 Section 1</title>
-      <link>http://gearchicken.com/blog/2015/03/10/open-source-business.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/10/open-source-business.html</link>
       <description>&lt;![CDATA[Who
 
 
@@ -294,24 +294,24 @@ Bradley M. Kuhn.
 
 ]]&gt;</description>
       <pubDate>Tue, 10 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/10/open-source-business.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/10/open-source-business.html</guid>
       <dc:date>2015-03-10T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Setting up TravisCI | FIRST Robotics C++</title>
-      <link>http://gearchicken.com/blog/2015/03/09/first-cpp-travis.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/09/first-cpp-travis.html</link>
       <description>&lt;![CDATA[This is a step by step guide on how to setup TravisCI for FIRST Robotics C++
 repositories. It will cover getting build status from TravisCI, but it will
 not go into unit testing. If you want to explore setting up Unit Tests for
 your repository I would recommend looking into CUnit.
 ]]&gt;</description>
       <pubDate>Mon, 09 Mar 2015 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/09/first-cpp-travis.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/09/first-cpp-travis.html</guid>
       <dc:date>2015-03-09T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Thoughts on Vulkan (f.k.a. GLNext)</title>
-      <link>http://gearchicken.com/blog/2015/03/05/thoughts-on-vulkan.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/05/thoughts-on-vulkan.html</link>
       <description>&lt;![CDATA[Earlier today at the Game Developers Conference in San
 Fansisco the Khronos Group presented the next version,
 or rather the successor to OpenGL. Vulkan is a
@@ -319,12 +319,12 @@ lower level Graphics API that puts developers in control of the hardware,
 rather than leaving all of the &amp;quot;heavy lifting&amp;quot; to the driver.
 ]]&gt;</description>
       <pubDate>Thu, 05 Mar 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/05/thoughts-on-vulkan.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/05/thoughts-on-vulkan.html</guid>
       <dc:date>2015-03-05T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Frog Fractions 2</title>
-      <link>http://gearchicken.com/blog/2015/03/02/frog-fractions2.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/03/02/frog-fractions2.html</link>
       <description>&lt;![CDATA[When I was at GDC I stopped by the IGF booth and saw a
 sign labeled &amp;quot;Frog Fractions 2.&amp;quot; When I walked up to the booth I saw what
 appeared to be a golfing game. I stood behind someone for about 10 minutes,
@@ -332,46 +332,46 @@ I was pretty confused, waiting for the change in gameplay that I remember from
 the original Frog Fractions.
 ]]&gt;</description>
       <pubDate>Mon, 02 Mar 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/03/02/frog-fractions2.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/03/02/frog-fractions2.html</guid>
       <dc:date>2015-03-02T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Displaying Your Unity3D Project Using GitHub Pages</title>
-      <link>http://gearchicken.com/blog/2015/02/28/unity-github-webplayer.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/28/unity-github-webplayer.html</link>
       <description>&lt;![CDATA[The other day a friend asked me for some help setting up some demos on his portfolio blog.
 He wanted to be able to have playable versions of his Unity3D Projects online
 so any vistor of his site could play the game easily, ideally without building
 the project from source.
 ]]&gt;</description>
       <pubDate>Sat, 28 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/28/unity-github-webplayer.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/28/unity-github-webplayer.html</guid>
       <dc:date>2015-02-28T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>VidReview: Trademarks and Your FOSS Project</title>
-      <link>http://gearchicken.com/blog/2015/02/26/trademarks-vidreview.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/26/trademarks-vidreview.html</link>
       <description>&lt;![CDATA[Who
 
 Karen Sandler
 ]]&gt;</description>
       <pubDate>Thu, 26 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/26/trademarks-vidreview.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/26/trademarks-vidreview.html</guid>
       <dc:date>2015-02-26T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>LitReview: Common Trademark Issues</title>
-      <link>http://gearchicken.com/blog/2015/02/24/trademark.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/24/trademark.html</link>
       <description>&lt;![CDATA[Who
 
 Software Freedom Law Center
 ]]&gt;</description>
       <pubDate>Tue, 24 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/24/trademark.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/24/trademark.html</guid>
       <dc:date>2015-02-24T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>LitReview: Patent Promises</title>
-      <link>http://gearchicken.com/blog/2015/02/19/patent-promise.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/19/patent-promise.html</link>
       <description>&lt;![CDATA[Who
 
 
@@ -379,34 +379,34 @@ RedHat
 
 ]]&gt;</description>
       <pubDate>Thu, 19 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/19/patent-promise.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/19/patent-promise.html</guid>
       <dc:date>2015-02-19T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>LitReview</title>
-      <link>http://gearchicken.com/blog/2015/02/17/patent.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/17/patent.html</link>
       <description>&lt;![CDATA[Who
 
 Software Freedom Law Center
 ]]&gt;</description>
       <pubDate>Tue, 17 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/17/patent.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/17/patent.html</guid>
       <dc:date>2015-02-17T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>LitReview: Triple Threat</title>
-      <link>http://gearchicken.com/blog/2015/02/12/tos-apple.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/12/tos-apple.html</link>
       <description>&lt;![CDATA[Who
 
 Apple Inc.
 ]]&gt;</description>
       <pubDate>Thu, 12 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/12/tos-apple.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/12/tos-apple.html</guid>
       <dc:date>2015-02-12T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>LitReview: GNU GPL Comprehensive Tutorial and Guide</title>
-      <link>http://gearchicken.com/blog/2015/02/10/gpl-guide.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/10/gpl-guide.html</link>
       <description>&lt;![CDATA[Who
 
 Bradley M. Kuhn
@@ -416,12 +416,12 @@ Free Software Foundation, Inc.
 Software Freedom Law Center
 ]]&gt;</description>
       <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/10/gpl-guide.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/10/gpl-guide.html</guid>
       <dc:date>2015-02-10T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Deploying NodeBB To OpenShift</title>
-      <link>http://gearchicken.com/blog/2015/02/09/nodebb-openshift.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/09/nodebb-openshift.html</link>
       <description>&lt;![CDATA[A few weeks ago one of my friends asked me about the possibility of setting
 up online forum software for a community that he&amp;#39;s part of. He also had
 mentioned that he wanted to avoid using any Forum Software that was written
@@ -429,12 +429,12 @@ in PHP. We also wanted to make sure they we had a free hosting solution, so
 we went with OpenShift and NodeBB.
 ]]&gt;</description>
       <pubDate>Mon, 09 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/09/nodebb-openshift.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/09/nodebb-openshift.html</guid>
       <dc:date>2015-02-09T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>LitReview: Primer for FOSS Projects</title>
-      <link>http://gearchicken.com/blog/2015/02/05/litreview.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/05/litreview.html</link>
       <description>&lt;![CDATA[Who
 
 Richard Fontana
@@ -447,45 +447,45 @@ James Vasile
 Aaron Williamson
 ]]&gt;</description>
       <pubDate>Thu, 05 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/05/litreview.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/05/litreview.html</guid>
       <dc:date>2015-02-05T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Everything is A Remix</title>
-      <link>http://gearchicken.com/blog/2015/02/05/everything-remix.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/02/05/everything-remix.html</link>
       <description>&lt;![CDATA[Who
 
 Kirby Ferguson
 ]]&gt;</description>
       <pubDate>Thu, 05 Feb 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/02/05/everything-remix.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/02/05/everything-remix.html</guid>
       <dc:date>2015-02-05T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Hello Business and Legal FOSS!</title>
-      <link>http://gearchicken.com/blog/2015/01/30/hello-world-2.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2015/01/30/hello-world-2.html</link>
       <description>&lt;![CDATA[This is my firstflight assignment for my Business and Legal Aspects
 of Free and Open Source Software class. I also added 
 Disqus comment support to my blog!
 ]]&gt;</description>
       <pubDate>Fri, 30 Jan 2015 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2015/01/30/hello-world-2.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2015/01/30/hello-world-2.html</guid>
       <dc:date>2015-01-30T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>OpenGL Water</title>
-      <link>http://gearchicken.com/blog/2014/12/11/water.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/12/11/water.html</link>
       <description>&lt;![CDATA[Over the summer I decided that I wanted to spend some more time
 messing around with OpenGL and creating cool demos. One of the demos
 that I ended up spending a lot of my time on a Water demo.
 ]]&gt;</description>
       <pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/12/11/water.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/12/11/water.html</guid>
       <dc:date>2014-12-11T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>A Note on Large Team Projects [2]</title>
-      <link>http://gearchicken.com/blog/2014/12/11/team-projects-2.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/12/11/team-projects-2.html</link>
       <description>&lt;![CDATA[In my last post I started to talk about the importance of constant
 communication when working on a large team project. After working on
 teams of all sizes with members who had various levels of communication
@@ -494,12 +494,12 @@ of communication isn&amp;#39;t that which will hurt the team the most when worki
 on a project.
 ]]&gt;</description>
       <pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/12/11/team-projects-2.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/12/11/team-projects-2.html</guid>
       <dc:date>2014-12-11T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>A Note on Large Team Projects</title>
-      <link>http://gearchicken.com/blog/2014/12/11/team-projects.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/12/11/team-projects.html</link>
       <description>&lt;![CDATA[Over the course of this term I have been working on a large team project
 (at least large for the scale that academia usually works at). I can&amp;#39;t
 talk in much detail about the project itself but I will describe
@@ -509,12 +509,12 @@ the amount of communication that goess on within a large team I will
 be splitting this post up into two different blog posts.
 ]]&gt;</description>
       <pubDate>Thu, 11 Dec 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/12/11/team-projects.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/12/11/team-projects.html</guid>
       <dc:date>2014-12-11T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>24 Days of Pull Requests | BreakOuttaHere</title>
-      <link>http://gearchicken.com/blog/2014/12/02/pulls-01-BreakOuttaHere.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/12/02/pulls-01-BreakOuttaHere.html</link>
       <description>&lt;![CDATA[As part of my contribution to the 24 days of Pull Requests. I decided
 to fix a potential bug in golddiamonds/BreakOuttaHere.
 I fixed an issue where they were going through the game loop by executing
@@ -523,33 +523,33 @@ because not all computers run at the same CPU clock speed, leaving
 users with slower computers at an advantage.
 ]]&gt;</description>
       <pubDate>Tue, 02 Dec 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/12/02/pulls-01-BreakOuttaHere.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/12/02/pulls-01-BreakOuttaHere.html</guid>
       <dc:date>2014-12-02T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>24 Days of Pull Requests | Thrust</title>
-      <link>http://gearchicken.com/blog/2014/12/01/pulls-01-thrust.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/12/01/pulls-01-thrust.html</link>
       <description>&lt;![CDATA[This is the start of a challenge to get a pull request out
 every day for the next 24 days (every day until Christmas).
 ]]&gt;</description>
       <pubDate>Mon, 01 Dec 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/12/01/pulls-01-thrust.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/12/01/pulls-01-thrust.html</guid>
       <dc:date>2014-12-01T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>RocPy: Interfacing C with Python</title>
-      <link>http://gearchicken.com/blog/2014/11/25/rocpy.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/11/25/rocpy.html</link>
       <description>&lt;![CDATA[Sadly this months RocPy took to the trend of long talks
 which for the majority of the students could be deemed
 as &amp;#39;stale&amp;#39;.
 ]]&gt;</description>
       <pubDate>Tue, 25 Nov 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/11/25/rocpy.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/11/25/rocpy.html</guid>
       <dc:date>2014-11-25T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>PawPrints Adlibs</title>
-      <link>http://gearchicken.com/blog/2014/11/20/pawprints-adlibs.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/11/20/pawprints-adlibs.html</link>
       <description>&lt;![CDATA[At the beginning of the summer for the National Day of Civic Hacking
 I worked on a project that took petitions from the White House&amp;#39;s
 We the People website and
@@ -557,12 +557,12 @@ remixed them up with adlibs. Much like the Mad Libs style game. I&amp;#39;ve pos
 the code for that up on GitHub.
 ]]&gt;</description>
       <pubDate>Thu, 20 Nov 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/11/20/pawprints-adlibs.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/11/20/pawprints-adlibs.html</guid>
       <dc:date>2014-11-20T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>OSI Licenses Full: A FOSS Project Bootstrapping Tool</title>
-      <link>http://gearchicken.com/blog/2014/11/11/osi-licenses-full.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/11/11/osi-licenses-full.html</link>
       <description>&lt;![CDATA[This weekend I started to work on a project for my ADVFOSS class.
 As usual when I started the project I wanted to choose a license;
 Normally I would just use the GitHub online interface to create
@@ -571,12 +571,12 @@ files. Instead I decided to pull down a nice markdown formatted version of
 my license of choice, I got that file from timoxley/osi-licenses-full.
 ]]&gt;</description>
       <pubDate>Tue, 11 Nov 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/11/11/osi-licenses-full.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/11/11/osi-licenses-full.html</guid>
       <dc:date>2014-11-11T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Advanced FOSS Hackprop 2</title>
-      <link>http://gearchicken.com/blog/2014/11/06/hackprop2.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/11/06/hackprop2.html</link>
       <description>&lt;![CDATA[OpenCL Beginner Tutorials
 
 A collection of tutorials explaining the basic concepts of General
@@ -585,22 +585,22 @@ cover the steps ranging from getting OpenCL installed and setup to
 generating algorithmic images using the GPU.
 ]]&gt;</description>
       <pubDate>Thu, 06 Nov 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/11/06/hackprop2.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/11/06/hackprop2.html</guid>
       <dc:date>2014-11-06T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Buzzer As A Service: Postmortem</title>
-      <link>http://gearchicken.com/blog/2014/11/02/buzzer-postmortem.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/11/02/buzzer-postmortem.html</link>
       <description>&lt;![CDATA[For my second project in AdvFOSS I decided
 to work on Buzzer as a Service
 ]]&gt;</description>
       <pubDate>Sun, 02 Nov 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/11/02/buzzer-postmortem.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/11/02/buzzer-postmortem.html</guid>
       <dc:date>2014-11-02T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Updating Educational Resources: The Nature of Code</title>
-      <link>http://gearchicken.com/blog/2014/10/24/nature-of-code.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/10/24/nature-of-code.html</link>
       <description>&lt;![CDATA[In the Game Development program at RIT we take a course titled Interactive
 Media Development. The first half of this course uses the Processing Framework
 in order to focus more on the development of AI as opposed to the graphical
@@ -608,24 +608,24 @@ backend. The book that is referenced for this course is
 The Nature of Code by Daniel Shiffman.
 ]]&gt;</description>
       <pubDate>Fri, 24 Oct 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/10/24/nature-of-code.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/10/24/nature-of-code.html</guid>
       <dc:date>2014-10-24T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>RocPy: Other Languages With Python</title>
-      <link>http://gearchicken.com/blog/2014/10/20/rocpy.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/10/20/rocpy.html</link>
       <description>&lt;![CDATA[For this month&amp;#39;s RocPy the topic was interfacing other
 languages with Python. This seemed like a wonderful idea
 because for the majority of projects that my friends
 and I work on we use languages other than Python.
 ]]&gt;</description>
       <pubDate>Mon, 20 Oct 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/10/20/rocpy.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/10/20/rocpy.html</guid>
       <dc:date>2014-10-20T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Processing Shader Compilation Error Fix</title>
-      <link>http://gearchicken.com/blog/2014/10/15/processing-shader-error.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/10/15/processing-shader-error.html</link>
       <description>&lt;![CDATA[Back in September I issued a pull request
 to the Processing GitHub repository.
 This pull request covered
@@ -633,24 +633,24 @@ an issue with a confusing error message
 that caused unused PShader uniforms to be removed from the compiled shader.
 ]]&gt;</description>
       <pubDate>Wed, 15 Oct 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/10/15/processing-shader-error.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/10/15/processing-shader-error.html</guid>
       <dc:date>2014-10-15T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Google in Class Talk</title>
-      <link>http://gearchicken.com/blog/2014/10/07/google-visit-advfoss.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/10/07/google-visit-advfoss.html</link>
       <description>&lt;![CDATA[The other day in Advanced FOSS we were joined by Russ, a recruiter from Google.
 He talked to us a lot about the process of how to better our chances at being
 accepted with a position with Google. Russ also talked about his unique journey
 that led him to his current position with Google (Apple -&amp;gt; Microsoft -&amp;gt; Google).
 ]]&gt;</description>
       <pubDate>Tue, 07 Oct 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/10/07/google-visit-advfoss.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/10/07/google-visit-advfoss.html</guid>
       <dc:date>2014-10-07T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Decause, WAT!?</title>
-      <link>http://gearchicken.com/blog/2014/10/01/decause-wat.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/10/01/decause-wat.html</link>
       <description>&lt;![CDATA[This year for Software Freedom Day I attended
 FOSS@RIT&amp;#39;s day long event. For part of the event
 @decause encouraged everyone to give lightning
@@ -660,12 +660,12 @@ decause. I was thrilled by this idea and quickly scrapped up a presentation
 that I named Decause Wat!?.
 ]]&gt;</description>
       <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/10/01/decause-wat.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/10/01/decause-wat.html</guid>
       <dc:date>2014-10-01T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Buzzer as a Service Project Proposal</title>
-      <link>http://gearchicken.com/blog/2014/10/01/buzzer-as-a-service.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/10/01/buzzer-as-a-service.html</link>
       <description>&lt;![CDATA[Buzzer as a Service
 
 Create an IRC bot that will play an audible buzzer sound whenever the &amp;quot;mood&amp;quot; of
@@ -673,12 +673,12 @@ a channel becomes too negative. The &amp;quot;mood&amp;quot; of a channel will b
 a few different conditions, some example ideas follow below:
 ]]&gt;</description>
       <pubDate>Wed, 01 Oct 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/10/01/buzzer-as-a-service.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/10/01/buzzer-as-a-service.html</guid>
       <dc:date>2014-10-01T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Advanced FOSS Hackprop 1</title>
-      <link>http://gearchicken.com/blog/2014/09/30/hackprop1.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/09/30/hackprop1.html</link>
       <description>&lt;![CDATA[BlockyTalky Interaction API
 
 An API that uses WebSockets that will allow for more direct and fast
@@ -686,42 +686,42 @@ communication with the BlockyTalky unit. More details will be fleshed out on
 the project once I meet with my development team.
 ]]&gt;</description>
       <pubDate>Tue, 30 Sep 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/09/30/hackprop1.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/09/30/hackprop1.html</guid>
       <dc:date>2014-09-30T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Arduino Based Dancepad Controller: Postmortem</title>
-      <link>http://gearchicken.com/blog/2014/09/29/dancepad-arduino-postmortem.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/09/29/dancepad-arduino-postmortem.html</link>
       <description>&lt;![CDATA[For my first project in Advanced Foss I
 worked on interfacing physical buttons with my computer to simulate keyboard
 presses. The source code for which can be found at liam-middlebrook/dancepad
 ]]&gt;</description>
       <pubDate>Mon, 29 Sep 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/09/29/dancepad-arduino-postmortem.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/09/29/dancepad-arduino-postmortem.html</guid>
       <dc:date>2014-09-29T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>RocPY September 2014</title>
-      <link>http://gearchicken.com/blog/2014/09/16/rocpy.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/09/16/rocpy.html</link>
       <description>&lt;![CDATA[At this month&amp;#39;s RocPY meeting @ryansb came
 to Rochester to talk about HFLOSSK.
 ]]&gt;</description>
       <pubDate>Tue, 16 Sep 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/09/16/rocpy.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/09/16/rocpy.html</guid>
       <dc:date>2014-09-16T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Advanced FOSS Community Contrib 0: vogl</title>
-      <link>http://gearchicken.com/blog/2014/09/04/vogl-cmake.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/09/04/vogl-cmake.html</link>
       <description>&lt;![CDATA[Community Contribution
 ]]&gt;</description>
       <pubDate>Thu, 04 Sep 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/09/04/vogl-cmake.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/09/04/vogl-cmake.html</guid>
       <dc:date>2014-09-04T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Advanced FOSS Hack Proposal 0</title>
-      <link>http://gearchicken.com/blog/2014/09/02/14-hackprop0.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/09/02/14-hackprop0.html</link>
       <description>&lt;![CDATA[Dance Pad Controller Refurbish
 
 I&amp;#39;ve recently acquired an old Dance Dance
@@ -730,12 +730,12 @@ this hack is to interface it with an Arduino
 so it can be used as a virtual keyboard.
 ]]&gt;</description>
       <pubDate>Tue, 02 Sep 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/09/02/14-hackprop0.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/09/02/14-hackprop0.html</guid>
       <dc:date>2014-09-02T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Force Halt/Reboot on GNU/Linux Using /proc/</title>
-      <link>http://gearchicken.com/blog/2014/08/17/force-rebot-linux.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/08/17/force-rebot-linux.html</link>
       <description>&lt;![CDATA[I&amp;#39;m starting the process of moving my things back
 onto the RIT campus. Earlier tonight I decided
 I was going to start preparing my server to be
@@ -745,12 +745,12 @@ errors every time I tried to execute a command
 that was located in /sbin/.
 ]]&gt;</description>
       <pubDate>Sun, 17 Aug 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/08/17/force-rebot-linux.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/08/17/force-rebot-linux.html</guid>
       <dc:date>2014-08-17T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Working on the HFOSS Site</title>
-      <link>http://gearchicken.com/blog/2014/08/12/working-hfoss-site.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/08/12/working-hfoss-site.html</link>
       <description>&lt;![CDATA[This past week I&amp;#39;ve spent a lot of
 time working on improving the HFOSS
 Website.
@@ -760,12 +760,12 @@ part of the reason why I love the
 ideals of Free Software.
 ]]&gt;</description>
       <pubDate>Tue, 12 Aug 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/08/12/working-hfoss-site.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/08/12/working-hfoss-site.html</guid>
       <dc:date>2014-08-12T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>C++11 Support with Travis-CI using g++</title>
-      <link>http://gearchicken.com/blog/2014/07/02/c11-support-with-travis-ci-using-g.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/07/02/c11-support-with-travis-ci-using-g.html</link>
       <description>&lt;![CDATA[Today I was working on adding Travis-CI support to my project 
 MINX and I came across an issue that had 
 happened to several people, but no single source had the solution. 
@@ -774,12 +774,12 @@ A few things inside of MINX require C++11 so I&amp;#39;d normally just add
 a * -std=c++11 * argument in my makefile.
 ]]&gt;</description>
       <pubDate>Wed, 02 Jul 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/07/02/c11-support-with-travis-ci-using-g.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/07/02/c11-support-with-travis-ci-using-g.html</guid>
       <dc:date>2014-07-02T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Rhetological Fallcies Quiz</title>
-      <link>http://gearchicken.com/blog/2014/05/14/rhetological-fallcies-quiz.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/05/14/rhetological-fallcies-quiz.html</link>
       <description>&lt;![CDATA[When
 
 The latest version of this info-graphic was published in November of 2012
@@ -838,12 +838,12 @@ Why
 Understanding these fallacies could be useful when participating in an educated discussion with someone. For one, you will be able to stop yourself from using a fallacy. And you will also be able to identify when others use a fallacy so you can show them their logic error.
 ]]&gt;</description>
       <pubDate>Wed, 14 May 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/05/14/rhetological-fallcies-quiz.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/05/14/rhetological-fallcies-quiz.html</guid>
       <dc:date>2014-05-14T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Litreview 2: Rhetological Fallacies</title>
-      <link>http://gearchicken.com/blog/2014/05/14/litreview-2-rhetological-fallacies.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/05/14/litreview-2-rhetological-fallacies.html</link>
       <description>&lt;![CDATA[Who:
 
 David McCandless
@@ -894,12 +894,12 @@ Could some of the sections be split into smaller subsections (while still remain
 Overall I found this list of fallacies interesting; when reading through the examples I found quite a few fallacies that I commonly use in arguments. I hope if I were to get nothing else from this picture that it helps me eliminate the use of those fallacies in my speech. 9/10 Dropped Packets
 ]]&gt;</description>
       <pubDate>Wed, 14 May 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/05/14/litreview-2-rhetological-fallacies.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/05/14/litreview-2-rhetological-fallacies.html</guid>
       <dc:date>2014-05-14T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>BarCamp - An Unconference</title>
-      <link>http://gearchicken.com/blog/2014/05/12/barcamp-an-unconference.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/05/12/barcamp-an-unconference.html</link>
       <description>&lt;![CDATA[Preface:
 
 I have no easy way of describing all of the things that BarCamp is, so I have included the &quot;official&quot; description of BarCamp below, as according to their site http://barcamproc.org
@@ -926,12 +926,12 @@ Don't hold your audience captive
 
 ]]&gt;</description>
       <pubDate>Mon, 12 May 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/05/12/barcamp-an-unconference.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/05/12/barcamp-an-unconference.html</guid>
       <dc:date>2014-05-12T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Math Island: A Design Concept</title>
-      <link>http://gearchicken.com/blog/2014/05/07/math-island-a-design-concept.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/05/07/math-island-a-design-concept.html</link>
       <description>&lt;![CDATA[Preface
 
 Over the course of this term in my Mathematics of Graphical Simulation class my friends and I have had an &quot;interesting&quot; time in class. The first few weeks of the course I had noticed that something wasn't going exactly the proper way that a math primer for graphics programming should be taught. As the course went on my friends started the have a harder time understand what was going on in class. With this new difficulty, and the fact that our tables are arranged in a small archipelago like group format they came up with the concept of Math Island.
@@ -945,12 +945,12 @@ The Game
 You are trapped on Math Island, in order to escape you must navigate through it's maze-like structure. In order to make your way out, you must collect fuel cells before you run out of fuel. Every move you take uses a bit more fuel, escape the island using a combination of skill and wit!
 ]]&gt;</description>
       <pubDate>Wed, 07 May 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/05/07/math-island-a-design-concept.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/05/07/math-island-a-design-concept.html</guid>
       <dc:date>2014-05-07T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>HFOSS Final Project Team Proposal</title>
-      <link>http://gearchicken.com/blog/2014/04/16/hfoss-final-project-team-proposal.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/04/16/hfoss-final-project-team-proposal.html</link>
       <description>&lt;![CDATA[HFOSS Final Project Team Proposal
 
 List your other team members below
@@ -1148,12 +1148,12 @@ Integrate all art and audio
 
 ]]&gt;</description>
       <pubDate>Wed, 16 Apr 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/04/16/hfoss-final-project-team-proposal.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/04/16/hfoss-final-project-team-proposal.html</guid>
       <dc:date>2014-04-16T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>RocPy - Using collections.defaultdict as a Tree</title>
-      <link>http://gearchicken.com/blog/2014/04/14/rocpy-using-collections-defaultdict-as-a-tree.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/04/14/rocpy-using-collections-defaultdict-as-a-tree.html</link>
       <description>&lt;![CDATA[Last month on Tuesday the 18th, students from both my HFOSS class as well as students 
 from the Advanced FOSS class were supposed to go to March&amp;#39;s RocPy meeting. When I had 
 arrived with my car, ready to carpool some of the students over I was the only person 
@@ -1164,12 +1164,12 @@ and made the long (15 minute) journey to the University of Rochester.
 The remainder of this blogpost will be in code below.
 ]]&gt;</description>
       <pubDate>Mon, 14 Apr 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/04/14/rocpy-using-collections-defaultdict-as-a-tree.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/04/14/rocpy-using-collections-defaultdict-as-a-tree.html</guid>
       <dc:date>2014-04-14T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Curriculum Review - 4th Grade Math for MA and NY</title>
-      <link>http://gearchicken.com/blog/2014/04/09/curriculum-review-4th-grade-math-for-ma-and-ny.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/04/09/curriculum-review-4th-grade-math-for-ma-and-ny.html</link>
       <description>&lt;![CDATA[Overview
 
 In my Humanitarian Free and Open Source Software course we are researching the 4th Grade math curriculum for students in both Massachusetts and New York. Our assignment involved reading over a few texts the covered both curricula. I have included links to those texts below:
@@ -1196,12 +1196,12 @@ Useful Information
 I think that the section covering number operations in base ten will be most useful for my groups game. It will be easy enough programmatically to multiply and divide multi-digit numbers in base 10. Also given the nature of how my team's game is designed we should be able to have levels progress in an order that reinforces the four basic math operations and their uses.
 ]]&gt;</description>
       <pubDate>Wed, 09 Apr 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/04/09/curriculum-review-4th-grade-math-for-ma-and-ny.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/04/09/curriculum-review-4th-grade-math-for-ma-and-ny.html</guid>
       <dc:date>2014-04-09T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Allowing SteamOS to Install Packages From Debian Wheezy With Aptitude</title>
-      <link>http://gearchicken.com/blog/2014/03/30/allowing-steamos-to-install-packages-from-debian-wheezy-with-aptitude.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/03/30/allowing-steamos-to-install-packages-from-debian-wheezy-with-aptitude.html</link>
       <description>&lt;![CDATA[The Meeting
 
 Last Wednesday I had a meeting with Andy Phelps the director of RIT's MAGIC center. I was requesting permission to use the MAGIC center's labs for developing MINX for SteamOS. Below I have included a paraphrased transcription of our meeting:
@@ -1268,12 +1268,12 @@ fortune | cowsay
 If everything worked correctly you should have an ASCII cow draw in your terminal screen and tell you a random line from the fortunes list file!
 ]]&gt;</description>
       <pubDate>Sun, 30 Mar 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/03/30/allowing-steamos-to-install-packages-from-debian-wheezy-with-aptitude.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/03/30/allowing-steamos-to-install-packages-from-debian-wheezy-with-aptitude.html</guid>
       <dc:date>2014-03-30T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Community Architecture Analysis: MonoGame</title>
-      <link>http://gearchicken.com/blog/2014/03/19/community-architecture-analysis-monogame.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/03/19/community-architecture-analysis-monogame.html</link>
       <description>&lt;![CDATA[What we did:
 
 My team and I researched MonoGame primarily through its Github page, main website, and Google.  Before the project, I had crawled through the MonoGame source and interacted with its developers on Github.  We attempted to augment our own research with git_by_a_bus, but the way the git_by_a_bus was written caused it to keep eating up the machine's memory.
@@ -1339,12 +1339,12 @@ Our assessment: 
 Monogame is here to stay.  The community is still growing and the project is still maturing, but nothing's going to get rid of it anytime soon.  It is, by all sane measures, a highly successful project.
 ]]&gt;</description>
       <pubDate>Wed, 19 Mar 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/03/19/community-architecture-analysis-monogame.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/03/19/community-architecture-analysis-monogame.html</guid>
       <dc:date>2014-03-19T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>Making Robots Drive</title>
-      <link>http://gearchicken.com/blog/2014/03/17/making-robots-drive.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/03/17/making-robots-drive.html</link>
       <description>&lt;![CDATA[Over RIT's Intersession, a break from classes lasting almost the entire month of January, I went back to my old High School to help mentor their FIRST Robotics Team.  When I was on the team I was the lead of their programming sub-team, so coming back it was a no-brainer what I would be asked to help out on. In previous years the team had used Java to program the robot, it was simple enough that new team members would be able to pick it up in the few months we has before the actual build season started. But this year I came back to the surprise that the new lead of Programming had switched the coding language of choice to C++.
 
 I love C++ it's a great language it it does a lot of things in a way that makes sense to me, personally I wish that people took the effort to port more things to D, but that's a story for another blog post. I just don't feel that C++ is a good language for beginner programmers, especially those who's idea of writing a program is: Tracking a Killers Address in a Visual Basic Program.
@@ -1354,12 +1354,12 @@ When I went back to visit the team I got the questions that would be expected of
 Most of all my experience going back to mentor the team reminded me how much I loved  Engineering and Electronics. One thing I want to make time to do in my schedule among the cloud of software projects that I created is to work on a small electronics project. After all it's why I got my RaspberryPi last year.
 ]]&gt;</description>
       <pubDate>Mon, 17 Mar 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/03/17/making-robots-drive.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/03/17/making-robots-drive.html</guid>
       <dc:date>2014-03-17T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>HFOSS - Commarch Team Proposal</title>
-      <link>http://gearchicken.com/blog/2014/03/13/hfoss-comarch-team-proposal.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/03/13/hfoss-comarch-team-proposal.html</link>
       <description>&lt;![CDATA[List of Team Members
 
 
@@ -1415,12 +1415,12 @@ While MonoGame is an active project it has a long-term development cycle. It's l
 
 ]]&gt;</description>
       <pubDate>Thu, 13 Mar 2014 00:00:00 -0400</pubDate>
-      <guid>http://gearchicken.com/blog/2014/03/13/hfoss-comarch-team-proposal.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/03/13/hfoss-comarch-team-proposal.html</guid>
       <dc:date>2014-03-13T00:00:00-04:00</dc:date>
     </item>
     <item>
       <title>The History of MINX (Part 1)</title>
-      <link>http://gearchicken.com/blog/2014/02/26/the-history-of-minx-part-1.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/02/26/the-history-of-minx-part-1.html</link>
       <description>&lt;![CDATA[In January of 2013 I had seen articles saying that Microsoft was officially stopping development to update it's XNA Framework. When I heard this I was struck with sadness and memories knowing that without XNA I never would have become a Game Developer, and maybe not even a programmer.
 A year or so before XNA was deprecated I grew to a point where I felt I needed to strive to program in something more challenging than XNA, something that would give me more control. I had always been told that C++ was a great language, and that it was &quot;The Industry Standard.&quot; On a whim I decided I would try to learn C++. As you might imagine this didn't turn out as well as I would have hoped, I spent about a week frustrating myself over tutorials on how to use SDL 1.2, yet I had never taken the time to understand what was going on in C++. It took less than a month of frustration before I decided that without proper knowledge C++ and SDL would be too annoying/difficult to use.
 Last year after I was accepted into RIT's Game Design and Development program I decided that I wanted to come into the major making an impression that would last a lifetime. I talked to my friend Ben (https://github.com/bypylko) and asked if he would be interested in creating a clone of XNA in C++. We talked back and forth about licensing issues that would arise from doing this and concluded on something along the lines of &quot;If MonoGame is getting away with it why can't we?&quot; Because of our love/hate relationship with recursive acronyms we decided to name our (at the time) library, MINX. Meaning, MINX IS Not XNA.
@@ -1430,12 +1430,12 @@ Here are links to the MINX GitHub and Development Blog
 To be continued. . .
 ]]&gt;</description>
       <pubDate>Wed, 26 Feb 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/02/26/the-history-of-minx-part-1.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/02/26/the-history-of-minx-part-1.html</guid>
       <dc:date>2014-02-26T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Rochester Civic App Challenge Kickoff Hackathon</title>
-      <link>http://gearchicken.com/blog/2014/02/24/rochester-civic-app-challenge-kickoff-hackathon.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/02/24/rochester-civic-app-challenge-kickoff-hackathon.html</link>
       <description>&lt;![CDATA[This past weekend myself, along with my friends Eric and Braxton participated in the Rochester Civic App Challenge Kickoff Hackathon. This kickoff was hosted by RIT's MAGIC Center and lasted from 6PM Friday Jan 21st to 6PM Saturday Jan 22nd.
 
 Braxton, Eric, and I created CityWatch a browser based application that pinpoints the locations of 911 calls onto a map.  Our app received second place in the kickoff hackathon for new civic apps.
@@ -1447,12 +1447,12 @@ For the rest of the challenge we plan to add filtering options so users will be 
 &amp;nbsp;
 ]]&gt;</description>
       <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/02/24/rochester-civic-app-challenge-kickoff-hackathon.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/02/24/rochester-civic-app-challenge-kickoff-hackathon.html</guid>
       <dc:date>2014-02-24T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Rochester AT&amp;T Civic App Challenge Press Conference</title>
-      <link>http://gearchicken.com/blog/2014/02/24/rochester-att-civic-app-challenge-press-conference.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/02/24/rochester-att-civic-app-challenge-press-conference.html</link>
       <description>&lt;![CDATA[The Gist:
 
 RIT along with AT&amp;amp;T, Digital Rochester, High Tech Rochester, and Hack Upstate will be hosting a 60 day app creation challenge based around creating an app that exposes civic resources to the average citizen [Link Here].  Every sponsor of the event is clearly stating that they are doing it to once again start up Rochester's tech sector, hopefully bringing it back to the peak of the Kodak and Xerox years.
@@ -1478,12 +1478,12 @@ Overall attending the conference was a good experience. It helped me realize who
 &amp;nbsp;
 ]]&gt;</description>
       <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/02/24/rochester-att-civic-app-challenge-press-conference.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/02/24/rochester-att-civic-app-challenge-press-conference.html</guid>
       <dc:date>2014-02-24T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>HW: Bugfix</title>
-      <link>http://gearchicken.com/blog/2014/02/24/hw-bugfix.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/02/24/hw-bugfix.html</link>
       <description>&lt;![CDATA[For my Humanitarian Free and Open Source Software class I was assigned to find a bug in a GitHub repository and to submit a pull request with a patch for the bug.  About a month ago I had discovered a python game development library known as Spyral. I have been watching Spyral for the past few weeks and decided to find a bug that was simple enough for someone with my python experience to handle. Here is a link to the pull request that I submitted to Spyral.
 
 https://github.com/platipy/spyral/pull/39
@@ -1491,12 +1491,12 @@ https://github.com/platipy/spyral/pull/39
 When I submitted my pull request I had a great experience interacting with the lead developer acbart. He answered my question within a day of me submitting the pull request and helping to think out a solution to the issue that the bug presented. While ultimately my bugfix has not been implemented, I'd like to think that by submitting it I helped acbart work out a framework design choice for Spyral.
 ]]&gt;</description>
       <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/02/24/hw-bugfix.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/02/24/hw-bugfix.html</guid>
       <dc:date>2014-02-24T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>HFOSS - Quiz 1</title>
-      <link>http://gearchicken.com/blog/2014/02/12/hfoss-quiz-1.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/02/12/hfoss-quiz-1.html</link>
       <description>&lt;![CDATA[In Chapter 3 of Stephen Weber's The Success of Open Source, there was a listing of eight &quot;General Principles&quot; contained within the chapter. Last week, we discussed in class the five pillars of &quot;The Open Source Way.&quot;
 
 1.  What are the titles of each Pillar?
@@ -1541,12 +1541,12 @@ http://www.unterstein.net/su/docs/CathBaz.pdf
 &amp;nbsp;
 ]]&gt;</description>
       <pubDate>Wed, 12 Feb 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/02/12/hfoss-quiz-1.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/02/12/hfoss-quiz-1.html</guid>
       <dc:date>2014-02-12T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>LitReview Weber - The Success of Open Source Chapter 3: What Is Open Source and How Does It Work?</title>
-      <link>http://gearchicken.com/blog/2014/02/10/litreview-weber-the-success-of-open-source-chapter-3-what-is-open-source-and-how-does-it-work.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/02/10/litreview-weber-the-success-of-open-source-chapter-3-what-is-open-source-and-how-does-it-work.html</link>
       <description>&lt;![CDATA[On Novemeber 30th, 2005 Steven Weber released his book The Success of Open Source in the Harvard University Press.  For my Humanitarian Free and Open Source Software (HFOSS) class my professor asked us to read the third chapter of Weber's book, titled What Is Open Source and How Does It Work?  By no means do I feel comfortable formatting the article in the way most articles are formatted where paragraphs simply flow together. Instead I'll be taking the format the my professor had given the class as a rough outline.
 
 
@@ -1605,12 +1605,12 @@ At what point should developers say that the wheel is outdated and needs to be r
 Overall I found this chapter to be informative for someone who is not already familiar with the world of Open Source Software. That being said certain people in my HFOSS class may not have gotten as much out of it because of our previous experiences with the Open Source community. As an article for newcomers I would rate it a 9 out of 10. I personally believe that more work should have been put forth to mention the Free Software Foundation and the distinction between Free Software and Open Source Software, but that's an ideal thought, and we live in a far from ideal world.
 ]]&gt;</description>
       <pubDate>Mon, 10 Feb 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/02/10/litreview-weber-the-success-of-open-source-chapter-3-what-is-open-source-and-how-does-it-work.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/02/10/litreview-weber-the-success-of-open-source-chapter-3-what-is-open-source-and-how-does-it-work.html</guid>
       <dc:date>2014-02-10T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Russian Chicken Inspector</title>
-      <link>http://gearchicken.com/blog/2014/02/04/russian-chicken-inspector.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/02/04/russian-chicken-inspector.html</link>
       <description>&lt;![CDATA[Two weekends ago (the weekend of Janurary 24th) my friend Alec and I worked on a game for this year's Global Game Jam.  The theme of this year's jam was:
 
 &quot;We don't see things as they are, we see them as we are.&quot;
@@ -1641,16 +1641,16 @@ Below is a link to the GitHub page for Russian Chicken Inspector.  Feel free to
 https://github.com/liam-middlebrook/Russian-Chicken-Inspector
 ]]&gt;</description>
       <pubDate>Tue, 04 Feb 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/02/04/russian-chicken-inspector.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/02/04/russian-chicken-inspector.html</guid>
       <dc:date>2014-02-04T00:00:00-05:00</dc:date>
     </item>
     <item>
       <title>Hello World!</title>
-      <link>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</link>
+      <link>http://liam-middlebrook.github.io/blog/2014/01/30/hello-world-2.html</link>
       <description>&lt;![CDATA[This is a blog contains a development log of what things I'm working on! It will mainly focus on Game Development, but also may include various programming projects.
 ]]&gt;</description>
       <pubDate>Thu, 30 Jan 2014 00:00:00 -0500</pubDate>
-      <guid>http://gearchicken.com/blog/2014/01/30/hello-world-2.html</guid>
+      <guid>http://liam-middlebrook.github.io/blog/2014/01/30/hello-world-2.html</guid>
       <dc:date>2014-01-30T00:00:00-05:00</dc:date>
     </item>
     <dc:date>2015-05-13T00:00:00-04:00</dc:date>
