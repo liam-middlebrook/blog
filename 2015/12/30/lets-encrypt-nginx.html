@@ -35,29 +35,26 @@ Now you can securely view anything hosted at https://therubberduckis.in!</p>
 up.</p>
 
 <ol>
-<li>Change the listen port to 443 instead of 80
-<code>
-#listen 80;
+<li><p>Change the listen port to 443 instead of 80</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">#listen 80;
 listen 443;
-</code></li>
-<li>Enable SSL Authentication
-<code>
-ssl on;
-</code></li>
-<li>Point Nginx to the Certificate and Key files
-<code>
-ssl_certificate /etc/letsencrypt/live/&lt;DOMAIN&gt;/fullchain.pem;
+</code></pre></div></li>
+<li><p>Enable SSL Authentication</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">ssl on;
+</code></pre></div></li>
+<li><p>Point Nginx to the Certificate and Key files</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">ssl_certificate /etc/letsencrypt/live/&lt;DOMAIN&gt;/fullchain.pem;
 ssl_certificate_key /etc/letsencrypt/live/&lt;DOMAIN&gt;/privkey.pem;
-</code>
-These file paths may be different for you depending on how you have Let&#39;s
-Encrypt configured.</li>
+</code></pre></div>
+<p>These file paths may be different for you depending on how you have Let&#39;s
+Encrypt configured.</p></li>
 <li><p>If you want to allow both http and https connections to your server you&#39;ll
-have to change the following.
-```
-listen 80;
-listen 443 ssl;</p>
+have to change the following.</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">listen 80;
+listen 443 ssl;
 
-<h1>ssl on;</h1></li>
+#ssl on;
+</code></pre></div></li>
 </ol>
 
 <p>That&#39;s it! You should now allow https connections to your Nginx configuration
