@@ -8,7 +8,20 @@
     <title>Liam Middlebrook - Game Developer</title>
     <link>http://liam-middlebrook.github.io/blog</link>
     <description>RSS feed for Liam Middlebrook - Game Developer</description>
-    <pubDate>Wed, 13 May 2015 00:00:00 -0400</pubDate>
+    <pubDate>Wed, 30 Dec 2015 00:00:00 -0500</pubDate>
+    <item>
+      <title>SSL and Nginx With Let's Encrypt</title>
+      <link>http://liam-middlebrook.github.io/blog/2015/12/30/lets-encrypt-nginx.html</link>
+      <description>&lt;![CDATA[I&amp;#39;ve owned the domain http://therubberduckis.in since last February, but I
+haven&amp;#39;t taken the time to do much with it. When
+Let&amp;#39;s Encrypt was released I set up a mail server on
+rubberduck. Today I got around to setting up HTTPS connections for rubberduck.
+Now you can securely view anything hosted at https://therubberduckis.in!
+]]&gt;</description>
+      <pubDate>Wed, 30 Dec 2015 00:00:00 -0500</pubDate>
+      <guid>http://liam-middlebrook.github.io/blog/2015/12/30/lets-encrypt-nginx.html</guid>
+      <dc:date>2015-12-30T00:00:00-05:00</dc:date>
+    </item>
     <item>
       <title>Bizlegfoss Profile 4: SugarLabs/OLPC</title>
       <link>http://liam-middlebrook.github.io/blog/2015/05/13/profile4.html</link>
@@ -1653,6 +1666,6 @@ https://github.com/liam-middlebrook/Russian-Chicken-Inspector
       <guid>http://liam-middlebrook.github.io/blog/2014/01/30/hello-world-2.html</guid>
       <dc:date>2014-01-30T00:00:00-05:00</dc:date>
     </item>
-    <dc:date>2015-05-13T00:00:00-04:00</dc:date>
+    <dc:date>2015-12-30T00:00:00-05:00</dc:date>
   </channel>
 </rss>
