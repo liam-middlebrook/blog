@@ -37,3 +37,6 @@ have to change the following.
 
     #ssl on;
     ```
+
+That's it! You should now allow https connections to your Nginx configuration
+with Let's Encrypt!
